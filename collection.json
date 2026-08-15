@@ -6,8 +6,8 @@
       "name": "Red Wolf Fractured Frontier",
       "owned": false,
       "popularity": {
-        "owners": "3.0K",
-        "share": "24%"
+        "owners": "3.1K",
+        "share": "25%"
       },
       "release_date": null,
       "series": null,
@@ -20,7 +20,7 @@
       "name": "Doctor Octopus Fractured Frontier",
       "owned": true,
       "popularity": {
-        "owners": "9.1K",
+        "owners": "9.2K",
         "share": "73%"
       },
       "release_date": "08/05/26",
@@ -34,7 +34,7 @@
       "name": "Jane Foster Fractured Frontier",
       "owned": false,
       "popularity": {
-        "owners": "6.2K",
+        "owners": "6.3K",
         "share": "50%"
       },
       "release_date": null,
@@ -62,8 +62,8 @@
       "name": "Thanos Fractured Frontier",
       "owned": false,
       "popularity": {
-        "owners": "7.4K",
-        "share": "59%"
+        "owners": "7.5K",
+        "share": "60%"
       },
       "release_date": null,
       "series": null,
@@ -76,7 +76,7 @@
       "name": "Sinister Six",
       "owned": false,
       "popularity": {
-        "owners": "4.6K",
+        "owners": "4.7K",
         "share": "37%"
       },
       "release_date": null,
@@ -146,7 +146,7 @@
       "name": "Tarantula",
       "owned": false,
       "popularity": {
-        "owners": "3.9K",
+        "owners": "4.0K",
         "share": "31%"
       },
       "release_date": null,
@@ -160,7 +160,7 @@
       "name": "Tombstone",
       "owned": true,
       "popularity": {
-        "owners": "8.7K",
+        "owners": "8.8K",
         "share": "70%"
       },
       "release_date": "07/06/26",
@@ -216,7 +216,7 @@
       "name": "Namorita",
       "owned": false,
       "popularity": {
-        "owners": "4.4K",
+        "owners": "4.5K",
         "share": "35%"
       },
       "release_date": null,
@@ -230,7 +230,7 @@
       "name": "Triton",
       "owned": true,
       "popularity": {
-        "owners": "8.1K",
+        "owners": "8.2K",
         "share": "65%"
       },
       "release_date": "06/22/26",
@@ -328,7 +328,7 @@
       "name": "Lady Bullseye",
       "owned": false,
       "popularity": {
-        "owners": "5.0K",
+        "owners": "5.1K",
         "share": "40%"
       },
       "release_date": null,
@@ -398,7 +398,7 @@
       "name": "Karen Page",
       "owned": false,
       "popularity": {
-        "owners": "4.8K",
+        "owners": "4.9K",
         "share": "39%"
       },
       "release_date": null,
@@ -455,7 +455,7 @@
       "owned": true,
       "popularity": {
         "owners": "9.6K",
-        "share": "77%"
+        "share": "76%"
       },
       "release_date": "04/23/26",
       "series": null,
@@ -482,7 +482,7 @@
       "name": "Archangel Horseman of Death",
       "owned": false,
       "popularity": {
-        "owners": "4.8K",
+        "owners": "4.9K",
         "share": "39%"
       },
       "release_date": null,
@@ -496,7 +496,7 @@
       "name": "Askani'son",
       "owned": false,
       "popularity": {
-        "owners": "8.9K",
+        "owners": "9.0K",
         "share": "71%"
       },
       "release_date": null,
@@ -580,7 +580,7 @@
       "name": "Ozymandias",
       "owned": false,
       "popularity": {
-        "owners": "9.3K",
+        "owners": "9.4K",
         "share": "74%"
       },
       "release_date": null,
@@ -608,8 +608,8 @@
       "name": "Sandstorm",
       "owned": true,
       "popularity": {
-        "owners": "8.8K",
-        "share": "71%"
+        "owners": "8.9K",
+        "share": "70%"
       },
       "release_date": "03/12/26",
       "series": null,
@@ -650,7 +650,7 @@
       "name": "Isca the Unbeaten",
       "owned": false,
       "popularity": {
-        "owners": "7.8K",
+        "owners": "7.9K",
         "share": "62%"
       },
       "release_date": null,
@@ -678,7 +678,7 @@
       "name": "Starhawk",
       "owned": false,
       "popularity": {
-        "owners": "8.6K",
+        "owners": "8.7K",
         "share": "69%"
       },
       "release_date": null,
@@ -734,7 +734,7 @@
       "name": "Drax, Avatar Of Life",
       "owned": false,
       "popularity": {
-        "owners": "6.2K",
+        "owners": "6.3K",
         "share": "50%"
       },
       "release_date": null,
@@ -776,8 +776,8 @@
       "name": "Star-Lord, Master of the Sun",
       "owned": false,
       "popularity": {
-        "owners": "7.7K",
-        "share": "62%"
+        "owners": "7.8K",
+        "share": "61%"
       },
       "release_date": null,
       "series": null,
@@ -860,7 +860,7 @@
       "name": "Lockheed",
       "owned": false,
       "popularity": {
-        "owners": "6.1K",
+        "owners": "6.2K",
         "share": "49%"
       },
       "release_date": null,
@@ -874,7 +874,7 @@
       "name": "Majestic Wingbeat",
       "owned": true,
       "popularity": {
-        "owners": "8.6K",
+        "owners": "8.7K",
         "share": "69%"
       },
       "release_date": "01/06/26",
@@ -903,7 +903,7 @@
       "owned": false,
       "popularity": {
         "owners": "6.1K",
-        "share": "49%"
+        "share": "48%"
       },
       "release_date": null,
       "series": null,
@@ -958,7 +958,7 @@
       "name": "Wild Child",
       "owned": false,
       "popularity": {
-        "owners": "8.7K",
+        "owners": "8.8K",
         "share": "70%"
       },
       "release_date": null,
@@ -1028,7 +1028,7 @@
       "name": "Chamber",
       "owned": false,
       "popularity": {
-        "owners": "6.3K",
+        "owners": "6.4K",
         "share": "50%"
       },
       "release_date": null,
@@ -1056,7 +1056,7 @@
       "name": "Prowler",
       "owned": false,
       "popularity": {
-        "owners": "6.6K",
+        "owners": "6.7K",
         "share": "53%"
       },
       "release_date": null,
@@ -1112,7 +1112,7 @@
       "name": "Chameleon",
       "owned": true,
       "popularity": {
-        "owners": "9.1K",
+        "owners": "9.2K",
         "share": "73%"
       },
       "release_date": "11/11/25",
@@ -1126,7 +1126,7 @@
       "name": "Ezekiel Sims",
       "owned": false,
       "popularity": {
-        "owners": "5.7K",
+        "owners": "5.8K",
         "share": "46%"
       },
       "release_date": null,
@@ -1141,7 +1141,7 @@
       "owned": false,
       "popularity": {
         "owners": "7.1K",
-        "share": "57%"
+        "share": "56%"
       },
       "release_date": null,
       "series": null,
@@ -1196,7 +1196,7 @@
       "name": "Zombie Galacti",
       "owned": true,
       "popularity": {
-        "owners": "6.6K",
+        "owners": "6.7K",
         "share": "53%"
       },
       "release_date": "10/28/25",
@@ -1210,7 +1210,7 @@
       "name": "Zombie Sentry",
       "owned": true,
       "popularity": {
-        "owners": "8.6K",
+        "owners": "8.7K",
         "share": "69%"
       },
       "release_date": "10/27/25",
@@ -1225,7 +1225,7 @@
       "owned": false,
       "popularity": {
         "owners": "6.2K",
-        "share": "50%"
+        "share": "49%"
       },
       "release_date": null,
       "series": null,
@@ -1280,7 +1280,7 @@
       "name": "Headpool",
       "owned": false,
       "popularity": {
-        "owners": "7.2K",
+        "owners": "7.3K",
         "share": "58%"
       },
       "release_date": null,
@@ -1365,7 +1365,7 @@
       "owned": false,
       "popularity": {
         "owners": "6.2K",
-        "share": "50%"
+        "share": "49%"
       },
       "release_date": null,
       "series": null,
@@ -1392,7 +1392,7 @@
       "name": "Jim Hammond Human Torch",
       "owned": false,
       "popularity": {
-        "owners": "6.2K",
+        "owners": "6.3K",
         "share": "50%"
       },
       "release_date": null,
@@ -1420,7 +1420,7 @@
       "name": "Awesome Andy",
       "owned": false,
       "popularity": {
-        "owners": "8.1K",
+        "owners": "8.2K",
         "share": "65%"
       },
       "release_date": null,
@@ -1448,7 +1448,7 @@
       "name": "Omega Sentinel",
       "owned": false,
       "popularity": {
-        "owners": "8.6K",
+        "owners": "8.7K",
         "share": "69%"
       },
       "release_date": null,
@@ -1476,7 +1476,7 @@
       "name": "Viv Vision",
       "owned": false,
       "popularity": {
-        "owners": "7.6K",
+        "owners": "7.7K",
         "share": "61%"
       },
       "release_date": null,
@@ -1490,7 +1490,7 @@
       "name": "Cosmic Ghost Rider",
       "owned": false,
       "popularity": {
-        "owners": "7.7K",
+        "owners": "7.8K",
         "share": "62%"
       },
       "release_date": null,
@@ -1532,7 +1532,7 @@
       "name": "The Fallen One",
       "owned": true,
       "popularity": {
-        "owners": "7.2K",
+        "owners": "7.3K",
         "share": "58%"
       },
       "release_date": "08/19/25",
@@ -1546,7 +1546,7 @@
       "name": "Nova Frankie Raye",
       "owned": false,
       "popularity": {
-        "owners": "6.2K",
+        "owners": "6.3K",
         "share": "50%"
       },
       "release_date": null,
@@ -1658,8 +1658,8 @@
       "name": "Mole Man",
       "owned": true,
       "popularity": {
-        "owners": "8.3K",
-        "share": "67%"
+        "owners": "8.4K",
+        "share": "66%"
       },
       "release_date": "07/24/25",
       "series": null,
@@ -1701,7 +1701,7 @@
       "owned": false,
       "popularity": {
         "owners": "8.5K",
-        "share": "68%"
+        "share": "67%"
       },
       "release_date": null,
       "series": null,
@@ -1728,7 +1728,7 @@
       "name": "Mister Fantastic First Steps",
       "owned": false,
       "popularity": {
-        "owners": "7.5K",
+        "owners": "7.6K",
         "share": "60%"
       },
       "release_date": null,
@@ -1756,7 +1756,7 @@
       "name": "Astral Projection",
       "owned": false,
       "popularity": {
-        "owners": "8.7K",
+        "owners": "8.8K",
         "share": "70%"
       },
       "release_date": null,
@@ -1770,7 +1770,7 @@
       "name": "Dormammu",
       "owned": false,
       "popularity": {
-        "owners": "7.5K",
+        "owners": "7.6K",
         "share": "60%"
       },
       "release_date": null,
@@ -1784,7 +1784,7 @@
       "name": "Nightmare",
       "owned": false,
       "popularity": {
-        "owners": "7.1K",
+        "owners": "7.2K",
         "share": "57%"
       },
       "release_date": null,
@@ -1826,7 +1826,7 @@
       "name": "The Ancient One",
       "owned": false,
       "popularity": {
-        "owners": "6.6K",
+        "owners": "6.7K",
         "share": "53%"
       },
       "release_date": null,
@@ -1910,7 +1910,7 @@
       "name": "Nicholas Scratch",
       "owned": false,
       "popularity": {
-        "owners": "8.3K",
+        "owners": "8.4K",
         "share": "66%"
       },
       "release_date": null,
@@ -1994,7 +1994,7 @@
       "name": "Batroc the Leaper",
       "owned": false,
       "popularity": {
-        "owners": "9.1K",
+        "owners": "9.2K",
         "share": "73%"
       },
       "release_date": null,
@@ -2009,7 +2009,7 @@
       "owned": false,
       "popularity": {
         "owners": "8.5K",
-        "share": "68%"
+        "share": "67%"
       },
       "release_date": null,
       "series": null,
@@ -2036,7 +2036,7 @@
       "name": "Topaz",
       "owned": false,
       "popularity": {
-        "owners": "8.7K",
+        "owners": "8.8K",
         "share": "70%"
       },
       "release_date": null,
@@ -2064,7 +2064,7 @@
       "name": "Toxie Doxie",
       "owned": false,
       "popularity": {
-        "owners": "9.1K",
+        "owners": "9.2K",
         "share": "73%"
       },
       "release_date": null,
@@ -2078,7 +2078,7 @@
       "name": "Infinity Ultron",
       "owned": false,
       "popularity": {
-        "owners": "7.7K",
+        "owners": "7.8K",
         "share": "62%"
       },
       "release_date": null,
@@ -2106,7 +2106,7 @@
       "name": "Captain Carter",
       "owned": false,
       "popularity": {
-        "owners": "8.3K",
+        "owners": "8.4K",
         "share": "67%"
       },
       "release_date": null,
@@ -2162,8 +2162,8 @@
       "name": "Firehair",
       "owned": false,
       "popularity": {
-        "owners": "8.5K",
-        "share": "68%"
+        "owners": "8.7K",
+        "share": "69%"
       },
       "release_date": null,
       "series": null,
@@ -2204,7 +2204,7 @@
       "name": "Eson",
       "owned": false,
       "popularity": {
-        "owners": "8.2K",
+        "owners": "8.3K",
         "share": "66%"
       },
       "release_date": null,
@@ -2218,7 +2218,7 @@
       "name": "Diamondback",
       "owned": false,
       "popularity": {
-        "owners": "8.5K",
+        "owners": "8.6K",
         "share": "68%"
       },
       "release_date": null,
@@ -2260,8 +2260,8 @@
       "name": "Uncle Ben",
       "owned": true,
       "popularity": {
-        "owners": "9.2K",
-        "share": "74%"
+        "owners": "9.3K",
+        "share": "73%"
       },
       "release_date": "02/25/25",
       "series": null,
@@ -2288,7 +2288,7 @@
       "name": "Thaddeus Ross",
       "owned": false,
       "popularity": {
-        "owners": "7.0K",
+        "owners": "7.1K",
         "share": "56%"
       },
       "release_date": null,
@@ -2302,7 +2302,7 @@
       "name": "Joaquin Torres Falcon II",
       "owned": false,
       "popularity": {
-        "owners": "7.5K",
+        "owners": "7.6K",
         "share": "60%"
       },
       "release_date": null,
@@ -2316,7 +2316,7 @@
       "name": "Sam Wilson Captain America",
       "owned": false,
       "popularity": {
-        "owners": "8.5K",
+        "owners": "8.6K",
         "share": "68%"
       },
       "release_date": null,
@@ -2344,7 +2344,7 @@
       "name": "Bullseye",
       "owned": false,
       "popularity": {
-        "owners": "8.4K",
+        "owners": "8.5K",
         "share": "67%"
       },
       "release_date": null,
@@ -2387,7 +2387,7 @@
       "owned": true,
       "popularity": {
         "owners": "9.0K",
-        "share": "72%"
+        "share": "71%"
       },
       "release_date": "01/07/25",
       "series": null,
@@ -2400,7 +2400,7 @@
       "name": "Rocket and Groot",
       "owned": false,
       "popularity": {
-        "owners": "7.7K",
+        "owners": "7.8K",
         "share": "62%"
       },
       "release_date": null,
@@ -2442,7 +2442,7 @@
       "name": "Doctor Doom 2099",
       "owned": false,
       "popularity": {
-        "owners": "8.3K",
+        "owners": "8.4K",
         "share": "66%"
       },
       "release_date": null,
@@ -2484,7 +2484,7 @@
       "name": "Luna Snow",
       "owned": false,
       "popularity": {
-        "owners": "8.4K",
+        "owners": "8.5K",
         "share": "67%"
       },
       "release_date": null,
@@ -2540,7 +2540,7 @@
       "name": "Malekith",
       "owned": false,
       "popularity": {
-        "owners": "7.5K",
+        "owners": "7.6K",
         "share": "60%"
       },
       "release_date": null,
@@ -2582,7 +2582,7 @@
       "name": "Anti-Venom",
       "owned": true,
       "popularity": {
-        "owners": "8.0K",
+        "owners": "8.1K",
         "share": "64%"
       },
       "release_date": "10/29/24",
@@ -2610,7 +2610,7 @@
       "name": "Agony",
       "owned": true,
       "popularity": {
-        "owners": "10.0K",
+        "owners": "10K",
         "share": "80%"
       },
       "release_date": "10/16/24",
@@ -2625,7 +2625,7 @@
       "owned": false,
       "popularity": {
         "owners": "9.1K",
-        "share": "73%"
+        "share": "72%"
       },
       "release_date": null,
       "series": null,
@@ -2638,7 +2638,7 @@
       "name": "Misery",
       "owned": false,
       "popularity": {
-        "owners": "8.8K",
+        "owners": "8.9K",
         "share": "70%"
       },
       "release_date": null,
@@ -2666,7 +2666,7 @@
       "name": "Scream",
       "owned": true,
       "popularity": {
-        "owners": "9.5K",
+        "owners": "9.6K",
         "share": "76%"
       },
       "release_date": "10/01/24",
@@ -2681,7 +2681,7 @@
       "owned": false,
       "popularity": {
         "owners": "8.7K",
-        "share": "70%"
+        "share": "69%"
       },
       "release_date": null,
       "series": null,
@@ -2723,7 +2723,7 @@
       "owned": false,
       "popularity": {
         "owners": "8.0K",
-        "share": "64%"
+        "share": "63%"
       },
       "release_date": null,
       "series": null,
@@ -2764,7 +2764,7 @@
       "name": "Speed",
       "owned": false,
       "popularity": {
-        "owners": "8.1K",
+        "owners": "8.2K",
         "share": "65%"
       },
       "release_date": null,
@@ -2778,7 +2778,7 @@
       "name": "Wiccan",
       "owned": false,
       "popularity": {
-        "owners": "8.9K",
+        "owners": "9.0K",
         "share": "71%"
       },
       "release_date": null,
@@ -2806,7 +2806,7 @@
       "name": "Marvel Boy",
       "owned": false,
       "popularity": {
-        "owners": "8.6K",
+        "owners": "8.7K",
         "share": "69%"
       },
       "release_date": null,
@@ -2876,7 +2876,7 @@
       "name": "Hydra Bob",
       "owned": false,
       "popularity": {
-        "owners": "8.3K",
+        "owners": "8.4K",
         "share": "66%"
       },
       "release_date": null,
@@ -2890,7 +2890,7 @@
       "name": "Arishem",
       "owned": true,
       "popularity": {
-        "owners": "9.1K",
+        "owners": "9.2K",
         "share": "73%"
       },
       "release_date": "07/02/24",
@@ -2904,7 +2904,7 @@
       "name": "Phastos",
       "owned": false,
       "popularity": {
-        "owners": "9.5K",
+        "owners": "9.6K",
         "share": "76%"
       },
       "release_date": null,
@@ -2932,7 +2932,7 @@
       "name": "Sersi",
       "owned": false,
       "popularity": {
-        "owners": "8.0K",
+        "owners": "8.1K",
         "share": "64%"
       },
       "release_date": null,
@@ -3002,7 +3002,7 @@
       "name": "Sage",
       "owned": true,
       "popularity": {
-        "owners": "8.9K",
+        "owners": "9.0K",
         "share": "71%"
       },
       "release_date": "05/14/24",
@@ -3031,7 +3031,7 @@
       "owned": false,
       "popularity": {
         "owners": "8.2K",
-        "share": "66%"
+        "share": "65%"
       },
       "release_date": null,
       "series": null,
@@ -3044,7 +3044,7 @@
       "name": "Valentina",
       "owned": false,
       "popularity": {
-        "owners": "9.5K",
+        "owners": "9.6K",
         "share": "76%"
       },
       "release_date": null,
@@ -3058,7 +3058,7 @@
       "name": "White Widow",
       "owned": false,
       "popularity": {
-        "owners": "8.4K",
+        "owners": "8.5K",
         "share": "67%"
       },
       "release_date": null,
@@ -3073,7 +3073,7 @@
       "owned": true,
       "popularity": {
         "owners": "9.0K",
-        "share": "72%"
+        "share": "71%"
       },
       "release_date": "04/16/24",
       "series": null,
@@ -3128,8 +3128,8 @@
       "name": "War Machine",
       "owned": false,
       "popularity": {
-        "owners": "9.2K",
-        "share": "74%"
+        "owners": "9.3K",
+        "share": "73%"
       },
       "release_date": null,
       "series": null,
@@ -3142,7 +3142,7 @@
       "name": "Cannonball",
       "owned": true,
       "popularity": {
-        "owners": "10.0K",
+        "owners": "10K",
         "share": "80%"
       },
       "release_date": "03/19/24",
@@ -3170,8 +3170,8 @@
       "name": "Hope Summers",
       "owned": false,
       "popularity": {
-        "owners": "8.8K",
-        "share": "71%"
+        "owners": "8.9K",
+        "share": "70%"
       },
       "release_date": null,
       "series": null,
@@ -3268,7 +3268,7 @@
       "name": "Beta Ray Bill",
       "owned": true,
       "popularity": {
-        "owners": "9.7K",
+        "owners": "9.8K",
         "share": "78%"
       },
       "release_date": "01/30/24",
@@ -3297,7 +3297,7 @@
       "owned": true,
       "popularity": {
         "owners": "9.5K",
-        "share": "76%"
+        "share": "75%"
       },
       "release_date": "01/16/24",
       "series": null,
@@ -3324,8 +3324,8 @@
       "name": "Caiera",
       "owned": false,
       "popularity": {
-        "owners": "8.7K",
-        "share": "70%"
+        "owners": "8.8K",
+        "share": "69%"
       },
       "release_date": null,
       "series": null,
@@ -3338,7 +3338,7 @@
       "name": "Skaar",
       "owned": false,
       "popularity": {
-        "owners": "10.0K",
+        "owners": "10K",
         "share": "80%"
       },
       "release_date": null,
@@ -3464,7 +3464,7 @@
       "name": "Werewolf By Night",
       "owned": true,
       "popularity": {
-        "owners": "9.9K",
+        "owners": "10.0K",
         "share": "79%"
       },
       "release_date": "10/31/23",
@@ -3478,7 +3478,7 @@
       "name": "Nico Minoru",
       "owned": true,
       "popularity": {
-        "owners": "10K",
+        "owners": "11K",
         "share": "84%"
       },
       "release_date": "10/24/23",
@@ -3549,7 +3549,7 @@
       "owned": true,
       "popularity": {
         "owners": "10K",
-        "share": "83%"
+        "share": "82%"
       },
       "release_date": "09/19/23",
       "series": null,
@@ -3731,7 +3731,7 @@
       "owned": true,
       "popularity": {
         "owners": "12K",
-        "share": "95%"
+        "share": "94%"
       },
       "release_date": "06/20/23",
       "series": null,
@@ -3745,7 +3745,7 @@
       "owned": true,
       "popularity": {
         "owners": "12K",
-        "share": "95%"
+        "share": "94%"
       },
       "release_date": "06/13/23",
       "series": null,
@@ -3856,7 +3856,7 @@
       "name": "Jeff the Baby Land Shark",
       "owned": false,
       "popularity": {
-        "owners": "9.3K",
+        "owners": "9.4K",
         "share": "74%"
       },
       "release_date": null,
@@ -3884,7 +3884,7 @@
       "name": "Hit-Monkey",
       "owned": true,
       "popularity": {
-        "owners": "10K",
+        "owners": "11K",
         "share": "83%"
       },
       "release_date": "04/04/23",
@@ -4206,7 +4206,7 @@
       "name": "Galactus",
       "owned": true,
       "popularity": {
-        "owners": "9.7K",
+        "owners": "9.8K",
         "share": "78%"
       },
       "release_date": "11/29/22",
@@ -4263,7 +4263,7 @@
       "owned": true,
       "popularity": {
         "owners": "12K",
-        "share": "95%"
+        "share": "94%"
       },
       "release_date": "11/29/22",
       "series": null,
@@ -4333,7 +4333,7 @@
       "owned": true,
       "popularity": {
         "owners": "12K",
-        "share": "95%"
+        "share": "94%"
       },
       "release_date": "11/29/22",
       "series": null,
@@ -4447,7 +4447,7 @@
         "owners": "12K",
         "share": "95%"
       },
-      "release_date": "06/20/22",
+      "release_date": "06/14/22",
       "series": null,
       "slug": "Dracula",
       "status": "owned"
@@ -4478,20 +4478,6 @@
       "release_date": "06/13/22",
       "series": null,
       "slug": "DrDoom",
-      "status": "owned"
-    },
-    {
-      "card_id": "AdamWarlock",
-      "image_url": "https://snapcomplete-cdn.pages.dev/cards/AdamWarlock.webp?v=98",
-      "name": "Adam Warlock",
-      "owned": true,
-      "popularity": {
-        "owners": "12K",
-        "share": "95%"
-      },
-      "release_date": "06/12/22",
-      "series": null,
-      "slug": "AdamWarlock",
       "status": "owned"
     },
     {
@@ -4576,6 +4562,20 @@
       "release_date": "06/11/22",
       "series": null,
       "slug": "Wasp",
+      "status": "owned"
+    },
+    {
+      "card_id": "AdamWarlock",
+      "image_url": "https://snapcomplete-cdn.pages.dev/cards/AdamWarlock.webp?v=98",
+      "name": "Adam Warlock",
+      "owned": true,
+      "popularity": {
+        "owners": "12K",
+        "share": "95%"
+      },
+      "release_date": "06/10/22",
+      "series": null,
+      "slug": "AdamWarlock",
       "status": "owned"
     },
     {
@@ -4767,7 +4767,7 @@
       "owned": true,
       "popularity": {
         "owners": "12K",
-        "share": "96%"
+        "share": "95%"
       },
       "release_date": "06/08/22",
       "series": null,
@@ -5103,7 +5103,7 @@
       "owned": true,
       "popularity": {
         "owners": "12K",
-        "share": "95%"
+        "share": "94%"
       },
       "release_date": "06/06/22",
       "series": null,
@@ -5383,7 +5383,7 @@
       "owned": true,
       "popularity": {
         "owners": "12K",
-        "share": "95%"
+        "share": "94%"
       },
       "release_date": "06/04/22",
       "series": null,
@@ -5802,7 +5802,7 @@
       "name": "Doctor Strange",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/25/22",
@@ -5816,7 +5816,7 @@
       "name": "Forge",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/25/22",
@@ -5830,7 +5830,7 @@
       "name": "Moon Girl",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/25/22",
@@ -5844,7 +5844,7 @@
       "name": "Namor",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/25/22",
@@ -5858,7 +5858,7 @@
       "name": "America Chavez",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/24/22",
@@ -5872,7 +5872,7 @@
       "name": "Angel",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -5886,7 +5886,7 @@
       "name": "Bishop",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/24/22",
@@ -5900,7 +5900,7 @@
       "name": "Blade",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -5914,7 +5914,7 @@
       "name": "Blue Marvel",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/24/22",
@@ -5928,7 +5928,7 @@
       "name": "Cable",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -5942,7 +5942,7 @@
       "name": "Captain America",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/24/22",
@@ -5956,7 +5956,7 @@
       "name": "Carnage",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -5970,7 +5970,7 @@
       "name": "Cosmo",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -5984,7 +5984,7 @@
       "name": "Deathlok",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -5998,7 +5998,7 @@
       "name": "Devil Dinosaur",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6012,7 +6012,7 @@
       "name": "Domino",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6026,7 +6026,7 @@
       "name": "Elektra",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6040,7 +6040,7 @@
       "name": "Enchantress",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6054,7 +6054,7 @@
       "name": "Groot",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/24/22",
@@ -6068,7 +6068,7 @@
       "name": "Heimdall",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6082,7 +6082,7 @@
       "name": "Hulkbuster",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6096,7 +6096,7 @@
       "name": "Iron Fist",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6110,7 +6110,7 @@
       "name": "Klaw",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6124,7 +6124,7 @@
       "name": "Korg",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6138,7 +6138,7 @@
       "name": "Kraven",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6152,7 +6152,7 @@
       "name": "Lady Sif",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6166,7 +6166,7 @@
       "name": "Lizard",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6180,7 +6180,7 @@
       "name": "Mantis",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6194,7 +6194,7 @@
       "name": "Mister Sinister",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6208,7 +6208,7 @@
       "name": "Morph",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6222,7 +6222,7 @@
       "name": "Multiple Man",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6236,7 +6236,7 @@
       "name": "Nova",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6250,7 +6250,7 @@
       "name": "Onslaught",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6264,7 +6264,7 @@
       "name": "Professor X",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6278,7 +6278,7 @@
       "name": "Rocket Raccoon",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6292,7 +6292,7 @@
       "name": "Scarlet Witch",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6306,7 +6306,7 @@
       "name": "Spider-Woman",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6320,7 +6320,7 @@
       "name": "Strong Guy",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6334,7 +6334,7 @@
       "name": "Sword Master",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6348,7 +6348,7 @@
       "name": "Uatu the Watcher",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6362,7 +6362,7 @@
       "name": "White Queen",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6376,7 +6376,7 @@
       "name": "Wolverine",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/24/22",
@@ -6391,7 +6391,7 @@
       "owned": true,
       "popularity": {
         "owners": "13K",
-        "share": "100%"
+        "share": "~100%"
       },
       "release_date": "05/23/22",
       "series": null,
@@ -6404,7 +6404,7 @@
       "name": "Angela",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/23/22",
@@ -6418,7 +6418,7 @@
       "name": "Ant Man",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/23/22",
@@ -6432,7 +6432,7 @@
       "name": "Apocalypse",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/23/22",
@@ -6446,7 +6446,7 @@
       "name": "Armor",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/23/22",
@@ -6460,7 +6460,7 @@
       "name": "Colossus",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/23/22",
@@ -6475,7 +6475,7 @@
       "owned": true,
       "popularity": {
         "owners": "13K",
-        "share": "100%"
+        "share": "~100%"
       },
       "release_date": "05/23/22",
       "series": null,
@@ -6503,7 +6503,7 @@
       "owned": true,
       "popularity": {
         "owners": "13K",
-        "share": "100%"
+        "share": "~100%"
       },
       "release_date": "05/23/22",
       "series": null,
@@ -6517,7 +6517,7 @@
       "owned": true,
       "popularity": {
         "owners": "13K",
-        "share": "100%"
+        "share": "~100%"
       },
       "release_date": "05/23/22",
       "series": null,
@@ -6531,7 +6531,7 @@
       "owned": true,
       "popularity": {
         "owners": "13K",
-        "share": "100%"
+        "share": "~100%"
       },
       "release_date": "05/23/22",
       "series": null,
@@ -6544,7 +6544,7 @@
       "name": "Ironheart",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/23/22",
@@ -6558,7 +6558,7 @@
       "name": "Jessica Jones",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/23/22",
@@ -6572,7 +6572,7 @@
       "name": "Ka-Zar",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/23/22",
@@ -6587,7 +6587,7 @@
       "owned": true,
       "popularity": {
         "owners": "13K",
-        "share": "100%"
+        "share": "~100%"
       },
       "release_date": "05/23/22",
       "series": null,
@@ -6600,7 +6600,7 @@
       "name": "Mister Fantastic",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/23/22",
@@ -6615,7 +6615,7 @@
       "owned": true,
       "popularity": {
         "owners": "13K",
-        "share": "100%"
+        "share": "~100%"
       },
       "release_date": "05/23/22",
       "series": null,
@@ -6628,7 +6628,7 @@
       "name": "Nightcrawler",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/23/22",
@@ -6642,7 +6642,7 @@
       "name": "Odin",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/23/22",
@@ -6657,7 +6657,7 @@
       "owned": true,
       "popularity": {
         "owners": "13K",
-        "share": "100%"
+        "share": "~100%"
       },
       "release_date": "05/23/22",
       "series": null,
@@ -6671,7 +6671,7 @@
       "owned": true,
       "popularity": {
         "owners": "13K",
-        "share": "100%"
+        "share": "~100%"
       },
       "release_date": "05/23/22",
       "series": null,
@@ -6685,7 +6685,7 @@
       "owned": true,
       "popularity": {
         "owners": "13K",
-        "share": "100%"
+        "share": "~100%"
       },
       "release_date": "05/23/22",
       "series": null,
@@ -6699,7 +6699,7 @@
       "owned": true,
       "popularity": {
         "owners": "13K",
-        "share": "100%"
+        "share": "~100%"
       },
       "release_date": "05/23/22",
       "series": null,
@@ -6712,7 +6712,7 @@
       "name": "Spectrum",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/23/22",
@@ -6726,7 +6726,7 @@
       "name": "Squirrel Girl",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/23/22",
@@ -6741,7 +6741,7 @@
       "owned": true,
       "popularity": {
         "owners": "13K",
-        "share": "100%"
+        "share": "~100%"
       },
       "release_date": "05/23/22",
       "series": null,
@@ -6755,7 +6755,7 @@
       "owned": true,
       "popularity": {
         "owners": "13K",
-        "share": "100%"
+        "share": "~100%"
       },
       "release_date": "05/23/22",
       "series": null,
@@ -6768,7 +6768,7 @@
       "name": "White Tiger",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/23/22",
@@ -6782,7 +6782,7 @@
       "name": "Wolfsbane",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "~100%"
       },
       "release_date": "05/23/22",
@@ -6796,7 +6796,7 @@
       "name": "Yondu",
       "owned": true,
       "popularity": {
-        "owners": "12K",
+        "owners": "13K",
         "share": "99%"
       },
       "release_date": "05/23/22",
@@ -6811,7 +6811,7 @@
     "unknown": 0,
     "unowned": 181
   },
-  "extracted_at": "2026-08-14T20:41:36.016Z",
+  "extracted_at": "2026-08-15T15:00:32.615Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "schema_version": 1,
   "series_summary": {
