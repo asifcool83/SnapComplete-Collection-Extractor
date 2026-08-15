@@ -1418,15 +1418,15 @@
       "card_id": "AwesomeAndy",
       "image_url": "https://snapcomplete-cdn.pages.dev/cards/AwesomeAndy.webp?v=98",
       "name": "Awesome Andy",
-      "owned": false,
+      "owned": true,
       "popularity": {
         "owners": "8.2K",
         "share": "65%"
       },
-      "release_date": null,
+      "release_date": "09/02/25",
       "series": null,
       "slug": "AwesomeAndy",
-      "status": "unowned"
+      "status": "owned"
     },
     {
       "card_id": "MoiraX",
@@ -1838,15 +1838,15 @@
       "card_id": "Hellion",
       "image_url": "https://snapcomplete-cdn.pages.dev/cards/Hellion.webp?v=98",
       "name": "Hellion",
-      "owned": false,
+      "owned": true,
       "popularity": {
         "owners": "8.4K",
         "share": "67%"
       },
-      "release_date": null,
+      "release_date": "06/03/25",
       "series": null,
       "slug": "Hellion",
-      "status": "unowned"
+      "status": "owned"
     },
     {
       "card_id": "JenniferKale",
@@ -1992,15 +1992,15 @@
       "card_id": "Batroc",
       "image_url": "https://snapcomplete-cdn.pages.dev/cards/Batroc.webp?v=98",
       "name": "Batroc the Leaper",
-      "owned": false,
+      "owned": true,
       "popularity": {
         "owners": "9.2K",
         "share": "73%"
       },
-      "release_date": null,
+      "release_date": "04/29/25",
       "series": null,
       "slug": "Batroc",
-      "status": "unowned"
+      "status": "owned"
     },
     {
       "card_id": "FanFei",
@@ -3630,15 +3630,15 @@
       "card_id": "Daken",
       "image_url": "https://snapcomplete-cdn.pages.dev/cards/Daken.webp?v=98",
       "name": "Daken",
-      "owned": false,
+      "owned": true,
       "popularity": {
         "owners": "10K",
         "share": "81%"
       },
-      "release_date": null,
+      "release_date": "08/08/23",
       "series": null,
       "slug": "Daken",
-      "status": "unowned"
+      "status": "owned"
     },
     {
       "card_id": "Mirage",
@@ -6806,12 +6806,12 @@
     }
   ],
   "counts": {
-    "owned": 305,
+    "owned": 309,
     "total": 486,
     "unknown": 0,
-    "unowned": 181
+    "unowned": 177
   },
-  "extracted_at": "2026-08-15T15:00:32.615Z",
+  "extracted_at": "2026-08-15T15:07:45.676Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "schema_version": 1,
   "series_summary": {
@@ -6824,7 +6824,7 @@
       "total": 125
     },
     "S4": {
-      "owned": 57,
+      "owned": 61,
       "total": 88
     },
     "S5": {
