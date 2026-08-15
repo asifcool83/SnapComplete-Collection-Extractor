@@ -22,21 +22,12 @@ try {
     const cards = [...document.querySelectorAll(".card-grid-item[aria-label]")].map((card) => {
       const image = card.querySelector("img");
       const imageUrl = image?.currentSrc || image?.src || null;
-      const text = clean(card.innerText);
       const owned = card.classList.contains("owned");
       const unowned = card.classList.contains("unowned");
-      const popularity = text.match(/([\d.]+K)\s*\((~?\d+%)\)/i);
-      const release = text.match(/\b\d{2}\/\d{2}\/\d{2}\b/);
       return {
         name: card.getAttribute("aria-label") || image?.alt || null,
-        owned: owned ? true : unowned ? false : null,
-        status: owned ? "owned" : unowned ? "unowned" : "unknown",
-        series: null,
-        card_id: imageUrl ? (imageUrl.match(/\/cards\/([^/?#]+?)(?:\.webp)?(?:[?#]|$)/i) || [])[1] || null : null,
-        slug: imageUrl ? (imageUrl.match(/\/cards\/([^/?#]+?)(?:\.webp)?(?:[?#]|$)/i) || [])[1] || null : null,
-        image_url: imageUrl,
-        release_date: release ? release[0] : null,
-        popularity: popularity ? { owners: popularity[1], share: popularity[2] } : null
+        id: imageUrl ? (imageUrl.match(/\/cards\/([^/?#]+?)(?:\.webp)?(?:[?#]|$)/i) || [])[1] || null : null,
+        owned: owned ? true : unowned ? false : null
       };
     });
     const series_summary = {};
