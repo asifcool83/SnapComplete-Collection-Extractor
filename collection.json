@@ -6,12 +6,12 @@
     "method": "Playwright rendered DOM",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-08-18T18:53:58.838Z",
+  "extracted_at": "2026-08-18T19:36:55.886Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 486,
+    "total": 487,
     "owned": 312,
-    "unowned": 174,
+    "unowned": 175,
     "unknown": 0
   },
   "series_summary": {
@@ -29,10 +29,15 @@
     },
     "S5": {
       "owned": 28,
-      "total": 176
+      "total": 177
     }
   },
   "cards": [
+    {
+      "name": "Death Fractured Frontier",
+      "id": "DeathFracturedFrontier",
+      "owned": false
+    },
     {
       "name": "Red Wolf Fractured Frontier",
       "id": "RedWolfFracturedFrontier",
