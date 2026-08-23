@@ -6,12 +6,12 @@
     "method": "Playwright rendered DOM",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-08-23T21:31:51.423Z",
+  "extracted_at": "2026-08-23T22:33:58.218Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 487,
-    "owned": 312,
-    "unowned": 175,
+    "owned": 317,
+    "unowned": 170,
     "unknown": 0
   },
   "series_summary": {
@@ -24,11 +24,11 @@
       "total": 125
     },
     "S4": {
-      "owned": 62,
+      "owned": 66,
       "total": 88
     },
     "S5": {
-      "owned": 28,
+      "owned": 29,
       "total": 177
     }
   },
@@ -216,7 +216,7 @@
     {
       "name": "Askani'son",
       "id": "Askanison",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Stryfe",
@@ -556,7 +556,7 @@
     {
       "name": "Omega Sentinel",
       "id": "KarimaShapandar",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Sparky",
@@ -836,7 +836,7 @@
     {
       "name": "Gorgon",
       "id": "Gorgon",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Laufey",
@@ -1081,7 +1081,7 @@
     {
       "name": "Makkari",
       "id": "Makkari",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Sersi",
@@ -1316,7 +1316,7 @@
     {
       "name": "Loki",
       "id": "Loki",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Silver Samurai",
