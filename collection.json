@@ -6,12 +6,12 @@
     "method": "Playwright rendered DOM",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-08-24T15:51:14.611Z",
+  "extracted_at": "2026-08-24T16:51:09.991Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 487,
+    "total": 488,
     "owned": 317,
-    "unowned": 170,
+    "unowned": 171,
     "unknown": 0
   },
   "series_summary": {
@@ -25,7 +25,7 @@
     },
     "S4": {
       "owned": 66,
-      "total": 88
+      "total": 89
     },
     "S5": {
       "owned": 29,
@@ -33,6 +33,11 @@
     }
   },
   "cards": [
+    {
+      "name": "Hellcow Fractured Frontier",
+      "id": "HellcowFracturedFrontier",
+      "owned": false
+    },
     {
       "name": "Death Fractured Frontier",
       "id": "DeathFracturedFrontier",
