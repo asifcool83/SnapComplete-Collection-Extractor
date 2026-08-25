@@ -6,12 +6,12 @@
     "method": "Playwright rendered DOM",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-08-25T18:53:28.810Z",
+  "extracted_at": "2026-08-25T19:40:58.490Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 488,
+    "total": 489,
     "owned": 317,
-    "unowned": 171,
+    "unowned": 172,
     "unknown": 0
   },
   "series_summary": {
@@ -29,10 +29,15 @@
     },
     "S5": {
       "owned": 29,
-      "total": 177
+      "total": 178
     }
   },
   "cards": [
+    {
+      "name": "Red Hulk Fractured Frontier",
+      "id": "RedHulkFracturedFrontier",
+      "owned": false
+    },
     {
       "name": "Hellcow Fractured Frontier",
       "id": "HellcowFracturedFrontier",
