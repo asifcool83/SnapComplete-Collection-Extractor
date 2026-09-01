@@ -6,12 +6,12 @@
     "method": "Playwright rendered DOM",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-01T18:24:50.732Z",
+  "extracted_at": "2026-09-01T21:43:45.648Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 489,
+    "total": 492,
     "owned": 317,
-    "unowned": 172,
+    "unowned": 175,
     "unknown": 0
   },
   "series_summary": {
@@ -29,10 +29,25 @@
     },
     "S5": {
       "owned": 29,
-      "total": 178
+      "total": 181
     }
   },
   "cards": [
+    {
+      "name": "Anti-Polar Magneto",
+      "id": "AntiPolarMagneto",
+      "owned": false
+    },
+    {
+      "name": "Red Onslaught",
+      "id": "RedOnslaught",
+      "owned": false
+    },
+    {
+      "name": "Superior Iron Man",
+      "id": "SuperiorIronMan",
+      "owned": false
+    },
     {
       "name": "Red Hulk Fractured Frontier",
       "id": "RedHulkFracturedFrontier",
