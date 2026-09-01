@@ -6,7 +6,7 @@
     "method": "Playwright rendered DOM",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-01T04:58:16.044Z",
+  "extracted_at": "2026-09-01T09:59:08.161Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 489,
@@ -2124,11 +2124,6 @@
       "owned": true
     },
     {
-      "name": "Forge",
-      "id": "Forge",
-      "owned": true
-    },
-    {
       "name": "Moon Girl",
       "id": "MoonGirl",
       "owned": true
@@ -2206,6 +2201,11 @@
     {
       "name": "Enchantress",
       "id": "Enchantress",
+      "owned": true
+    },
+    {
+      "name": "Forge",
+      "id": "Forge",
       "owned": true
     },
     {
