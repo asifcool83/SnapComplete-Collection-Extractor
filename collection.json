@@ -6,12 +6,12 @@
     "method": "Playwright rendered DOM",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-02T14:23:22.211Z",
+  "extracted_at": "2026-09-02T18:36:42.480Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 492,
-    "owned": 317,
-    "unowned": 175,
+    "owned": 329,
+    "unowned": 163,
     "unknown": 0
   },
   "series_summary": {
@@ -24,11 +24,11 @@
       "total": 125
     },
     "S4": {
-      "owned": 66,
+      "owned": 74,
       "total": 89
     },
     "S5": {
-      "owned": 29,
+      "owned": 33,
       "total": 181
     }
   },
@@ -56,7 +56,7 @@
     {
       "name": "Hellcow Fractured Frontier",
       "id": "HellcowFracturedFrontier",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Death Fractured Frontier",
@@ -321,7 +321,7 @@
     {
       "name": "Major Victory",
       "id": "MajorVictory",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Drax, Avatar Of Life",
@@ -446,7 +446,7 @@
     {
       "name": "Hydro-Man",
       "id": "HydroMan",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Deafening Chord",
@@ -511,7 +511,7 @@
     {
       "name": "Zombie Mister Fantastic",
       "id": "ZombieMisterFantastic",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Colonel America",
@@ -526,12 +526,12 @@
     {
       "name": "Zombie Giant-Man",
       "id": "ZombieGiantMan",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Zombie Power Man",
       "id": "ZombiePowerMan",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Zombie Scarlet Witch",
@@ -546,7 +546,7 @@
     {
       "name": "Super-Adaptoid",
       "id": "SuperAdaptoid",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Warlock",
@@ -671,7 +671,7 @@
     {
       "name": "Fantasticar",
       "id": "Fantasticar",
-      "owned": false
+      "owned": true
     },
     {
       "name": "H.E.R.B.I.E.",
@@ -831,7 +831,7 @@
     {
       "name": "The First Ghost Rider",
       "id": "GhostTheFirstRider",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Firehair",
@@ -1081,7 +1081,7 @@
     {
       "name": "Ajax",
       "id": "Ajax",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Gwenpool",
@@ -1181,7 +1181,7 @@
     {
       "name": "War Machine",
       "id": "WarMachine",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Cannonball",
@@ -1441,7 +1441,7 @@
     {
       "name": "Jeff the Baby Land Shark",
       "id": "JeffTheBabyLandShark",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Snowguard",
