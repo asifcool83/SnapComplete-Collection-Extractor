@@ -6,7 +6,7 @@
     "method": "Playwright rendered DOM",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-03T00:06:32.797Z",
+  "extracted_at": "2026-09-03T04:18:17.793Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 492,
@@ -1654,16 +1654,6 @@
       "owned": true
     },
     {
-      "name": "Crossbones",
-      "id": "Crossbones",
-      "owned": true
-    },
-    {
-      "name": "Doctor Doom",
-      "id": "DrDoom",
-      "owned": true
-    },
-    {
       "name": "Captain Marvel",
       "id": "CaptainMarvel",
       "owned": true
@@ -1681,11 +1671,6 @@
     {
       "name": "Hellcow",
       "id": "Hellcow",
-      "owned": true
-    },
-    {
-      "name": "Taskmaster",
-      "id": "Taskmaster",
       "owned": true
     },
     {
@@ -1739,11 +1724,6 @@
       "owned": true
     },
     {
-      "name": "Gambit",
-      "id": "Gambit",
-      "owned": true
-    },
-    {
       "name": "Magneto",
       "id": "Magneto",
       "owned": true
@@ -1751,11 +1731,6 @@
     {
       "name": "Quake",
       "id": "Quake",
-      "owned": true
-    },
-    {
-      "name": "Wong",
-      "id": "Wong",
       "owned": true
     },
     {
@@ -1774,13 +1749,13 @@
       "owned": true
     },
     {
-      "name": "Green Goblin",
-      "id": "GreenGoblin",
+      "name": "Gambit",
+      "id": "Gambit",
       "owned": true
     },
     {
-      "name": "Killmonger",
-      "id": "Killmonger",
+      "name": "Green Goblin",
+      "id": "GreenGoblin",
       "owned": true
     },
     {
@@ -1819,8 +1794,18 @@
       "owned": true
     },
     {
+      "name": "Crossbones",
+      "id": "Crossbones",
+      "owned": true
+    },
+    {
       "name": "Deadpool",
       "id": "Deadpool",
+      "owned": true
+    },
+    {
+      "name": "Doctor Doom",
+      "id": "DrDoom",
       "owned": true
     },
     {
@@ -1864,11 +1849,6 @@
       "owned": true
     },
     {
-      "name": "Spider-Man",
-      "id": "SpiderMan",
-      "owned": true
-    },
-    {
       "name": "Viper",
       "id": "Viper",
       "owned": true
@@ -1876,6 +1856,11 @@
     {
       "name": "Wave",
       "id": "Wave",
+      "owned": true
+    },
+    {
+      "name": "Wong",
+      "id": "Wong",
       "owned": true
     },
     {
@@ -1891,11 +1876,6 @@
     {
       "name": "Human Torch",
       "id": "HumanTorch",
-      "owned": true
-    },
-    {
-      "name": "Juggernaut",
-      "id": "Juggernaut",
       "owned": true
     },
     {
@@ -1916,6 +1896,11 @@
     {
       "name": "Quinjet",
       "id": "Quinjet",
+      "owned": true
+    },
+    {
+      "name": "Taskmaster",
+      "id": "Taskmaster",
       "owned": true
     },
     {
@@ -1959,6 +1944,16 @@
       "owned": true
     },
     {
+      "name": "Juggernaut",
+      "id": "Juggernaut",
+      "owned": true
+    },
+    {
+      "name": "Killmonger",
+      "id": "Killmonger",
+      "owned": true
+    },
+    {
       "name": "Kingpin",
       "id": "Kingpin",
       "owned": true
@@ -1971,6 +1966,11 @@
     {
       "name": "Sera",
       "id": "Sera",
+      "owned": true
+    },
+    {
+      "name": "Spider-Man",
+      "id": "SpiderMan",
       "owned": true
     },
     {
@@ -2029,11 +2029,6 @@
       "owned": true
     },
     {
-      "name": "Leech",
-      "id": "Leech",
-      "owned": true
-    },
-    {
       "name": "Scorpion",
       "id": "Scorpion",
       "owned": true
@@ -2084,6 +2079,11 @@
       "owned": true
     },
     {
+      "name": "Leech",
+      "id": "Leech",
+      "owned": true
+    },
+    {
       "name": "Nakia",
       "id": "Nakia",
       "owned": true
@@ -2131,11 +2131,6 @@
     {
       "name": "Vision",
       "id": "Vision",
-      "owned": true
-    },
-    {
-      "name": "Doctor Strange",
-      "id": "DoctorStrange",
       "owned": true
     },
     {
@@ -2201,6 +2196,11 @@
     {
       "name": "Devil Dinosaur",
       "id": "DevilDinosaur",
+      "owned": true
+    },
+    {
+      "name": "Doctor Strange",
+      "id": "DoctorStrange",
       "owned": true
     },
     {
