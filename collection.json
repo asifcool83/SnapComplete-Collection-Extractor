@@ -6,12 +6,12 @@
     "method": "Playwright rendered DOM",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-04T21:23:41.918Z",
+  "extracted_at": "2026-09-04T23:58:28.453Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 492,
-    "owned": 329,
-    "unowned": 163,
+    "owned": 330,
+    "unowned": 162,
     "unknown": 0
   },
   "series_summary": {
@@ -24,7 +24,7 @@
       "total": 125
     },
     "S4": {
-      "owned": 74,
+      "owned": 75,
       "total": 89
     },
     "S5": {
@@ -1101,7 +1101,7 @@
     {
       "name": "Phastos",
       "id": "Phastos",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Makkari",
