@@ -6,7 +6,7 @@
     "method": "Playwright rendered DOM",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-04T14:16:40.694Z",
+  "extracted_at": "2026-09-04T18:19:41.195Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 492,
