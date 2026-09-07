@@ -6,12 +6,12 @@
     "method": "Playwright rendered DOM",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-06T07:51:14.190Z",
+  "extracted_at": "2026-09-07T08:12:43.698Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 492,
-    "owned": 330,
-    "unowned": 162,
+    "owned": 332,
+    "unowned": 160,
     "unknown": 0
   },
   "series_summary": {
@@ -24,7 +24,7 @@
       "total": 125
     },
     "S4": {
-      "owned": 75,
+      "owned": 77,
       "total": 89
     },
     "S5": {
@@ -271,7 +271,7 @@
     {
       "name": "Ozymandias",
       "id": "Ozymandias",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Caliban Horseman of Pestilence",
@@ -746,7 +746,7 @@
     {
       "name": "Nicholas Scratch",
       "id": "NicholasScratch",
-      "owned": false
+      "owned": true
     },
     {
       "name": "Xorn",
