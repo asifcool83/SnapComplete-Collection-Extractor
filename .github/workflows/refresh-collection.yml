@@ -7,6 +7,10 @@ on:
     - cron: "7 * * * *"
   workflow_dispatch:
 
+concurrency:
+  group: snapcomplete-collection-refresh
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -28,7 +32,7 @@ jobs:
           npm install --no-save playwright
           npx playwright install --with-deps chromium
 
-      - name: Extract and validate collection
+      - name: Extract and validate
         run: node refresh_collection.mjs
 
       - name: Commit changed snapshot
