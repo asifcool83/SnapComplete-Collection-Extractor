@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-09T13:39:45.553Z",
+  "extracted_at": "2026-09-09T20:52:02.643Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 493,
-    "owned": 332,
-    "unowned": 161,
+    "owned": 334,
+    "unowned": 159,
     "unknown": 0
   },
   "series_summary": {
@@ -28,7 +28,7 @@
       "total": 125
     },
     "S4": {
-      "owned": 77,
+      "owned": 79,
       "total": 89
     },
     "S5": {
@@ -818,16 +818,6 @@
       "owned": false
     },
     {
-      "name": "Skaar",
-      "id": "Skaar",
-      "owned": false
-    },
-    {
-      "name": "Ms. Marvel",
-      "id": "MsMarvel",
-      "owned": false
-    },
-    {
       "name": "Alioth",
       "id": "Alioth",
       "owned": false
@@ -1288,6 +1278,11 @@
       "owned": true
     },
     {
+      "name": "Skaar",
+      "id": "Skaar",
+      "owned": true
+    },
+    {
       "name": "Selene",
       "id": "Selene",
       "owned": true
@@ -1320,6 +1315,11 @@
     {
       "name": "Gladiator",
       "id": "Gladiator",
+      "owned": true
+    },
+    {
+      "name": "Ms. Marvel",
+      "id": "MsMarvel",
       "owned": true
     },
     {
