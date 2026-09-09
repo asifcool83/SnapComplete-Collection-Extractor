@@ -32,7 +32,7 @@ jobs:
           npm install --no-save playwright
           npx playwright install --with-deps chromium
 
-      - name: Extract and validate
+      - name: Extract and validate collection
         run: node refresh_collection.mjs
 
       - name: Commit changed snapshot
