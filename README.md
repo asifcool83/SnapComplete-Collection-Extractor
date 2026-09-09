@@ -4,16 +4,16 @@ Small browser-console extractor for the public SnapComplete collection at:
 
 <https://snapcomplete.com/u/abjcwf/cards>
 
-It reads the rendered card grid and downloads a fresh `collection.json` with card names, owned/unowned state, slugs/IDs, image URLs, release dates where shown, visible popularity, and series totals.
+It reads the rendered card grid and downloads a fresh `collection.json` with card names, owned/unowned state, slugs/IDs, image URLs, release dates where shown, visible popularity, and series totals. The automated refresh reads both the owned view and the separate missing-card view, then merges them.
 
 ## Use
 
-1. Open the unfiltered profile URL above. Do not use `?owned=Owned`; that view hides missing cards.
+1. Open the unfiltered profile URL above. Do not use a filtered view when running the browser-console extractor; the automated refresh handles the separate missing-card view itself.
 2. Wait until the collection grid finishes rendering.
 3. Open the browser developer console, paste `extract_collection.js`, and run it.
 4. Replace this repository's `collection.json` with the downloaded file and commit it.
 
-The page currently exposes series totals in its header, not a per-card series value. Those totals are saved in `series_summary`; each card's `series` is `null` rather than guessed.
+The page currently exposes series totals in its header, not a per-card series value. Those totals are saved in `series_summary`; each card's `series` is `null` rather than guessed. The page now separates owned and missing cards into different views, so a single browser-console pass is only a view-level export; use the GitHub Actions refresh for a complete snapshot.
 
 ## Current snapshot
 

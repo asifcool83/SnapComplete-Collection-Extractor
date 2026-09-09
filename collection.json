@@ -3,15 +3,19 @@
   "source": {
     "profile_url": "https://snapcomplete.com/u/abjcwf/cards",
     "extracted_url": "https://snapcomplete.com/u/abjcwf/cards",
-    "method": "Playwright rendered DOM",
+    "view_urls": [
+      "https://snapcomplete.com/u/abjcwf/cards",
+      "https://snapcomplete.com/u/abjcwf/cards?owned=Missing"
+    ],
+    "method": "Playwright rendered DOM from owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-08T08:00:46.758Z",
+  "extracted_at": "2026-09-09T08:45:04.660Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 492,
+    "total": 493,
     "owned": 332,
-    "unowned": 160,
+    "unowned": 161,
     "unknown": 0
   },
   "series_summary": {
@@ -29,10 +33,15 @@
     },
     "S5": {
       "owned": 33,
-      "total": 181
+      "total": 182
     }
   },
   "cards": [
+    {
+      "name": "Kluh",
+      "id": "Kluh",
+      "owned": false
+    },
     {
       "name": "Anti-Polar Magneto",
       "id": "AntiPolarMagneto",
@@ -54,11 +63,6 @@
       "owned": false
     },
     {
-      "name": "Hellcow Fractured Frontier",
-      "id": "HellcowFracturedFrontier",
-      "owned": true
-    },
-    {
       "name": "Death Fractured Frontier",
       "id": "DeathFracturedFrontier",
       "owned": false
@@ -67,11 +71,6 @@
       "name": "Red Wolf Fractured Frontier",
       "id": "RedWolfFracturedFrontier",
       "owned": false
-    },
-    {
-      "name": "Doctor Octopus Fractured Frontier",
-      "id": "DoctorOctopusFracturedFrontier",
-      "owned": true
     },
     {
       "name": "Jane Foster Fractured Frontier",
@@ -84,24 +83,9 @@
       "owned": false
     },
     {
-      "name": "Thanos Fractured Frontier",
-      "id": "ThanosFracturedFrontier",
-      "owned": true
-    },
-    {
       "name": "Sinister Six",
       "id": "SinisterSix",
       "owned": false
-    },
-    {
-      "name": "Spider Sense",
-      "id": "SpiderSense",
-      "owned": true
-    },
-    {
-      "name": "J. Jonah Jameson",
-      "id": "JJonahJameson",
-      "owned": true
     },
     {
       "name": "Scorpion Brand New Day",
@@ -117,11 +101,6 @@
       "name": "Tarantula",
       "id": "Tarantula",
       "owned": false
-    },
-    {
-      "name": "Tombstone",
-      "id": "Tombstone",
-      "owned": true
     },
     {
       "name": "Aunt May",
@@ -144,29 +123,14 @@
       "owned": false
     },
     {
-      "name": "Triton",
-      "id": "Triton",
-      "owned": true
-    },
-    {
       "name": "Sub-Mariner",
       "id": "SubMariner",
       "owned": false
     },
     {
-      "name": "Quicksand",
-      "id": "Quicksand",
-      "owned": true
-    },
-    {
       "name": "Jubilee Silver Surfer",
       "id": "JubileeSilverSurfer",
       "owned": false
-    },
-    {
-      "name": "Jeff the Baby Dolphin!?",
-      "id": "JeffTheBabyDolphin",
-      "owned": true
     },
     {
       "name": "Monstro",
@@ -184,19 +148,9 @@
       "owned": false
     },
     {
-      "name": "Stick",
-      "id": "Stick",
-      "owned": true
-    },
-    {
       "name": "Muse",
       "id": "Muse",
       "owned": false
-    },
-    {
-      "name": "Ikari",
-      "id": "Ikari",
-      "owned": true
     },
     {
       "name": "Punisher War Machine",
@@ -224,11 +178,6 @@
       "owned": false
     },
     {
-      "name": "Mother Askani",
-      "id": "MotherAskani",
-      "owned": true
-    },
-    {
       "name": "Polaris Horseman of Pestilence",
       "id": "PolarisHorseman",
       "owned": false
@@ -237,11 +186,6 @@
       "name": "Archangel Horseman of Death",
       "id": "ArchangelHorseman",
       "owned": false
-    },
-    {
-      "name": "Askani'son",
-      "id": "Askanison",
-      "owned": true
     },
     {
       "name": "Stryfe",
@@ -267,26 +211,6 @@
       "name": "Selene Horseman of Famine",
       "id": "SeleneHorseman",
       "owned": false
-    },
-    {
-      "name": "Ozymandias",
-      "id": "Ozymandias",
-      "owned": true
-    },
-    {
-      "name": "Caliban Horseman of Pestilence",
-      "id": "CalibanHorseman",
-      "owned": true
-    },
-    {
-      "name": "Sandstorm",
-      "id": "Sandstorm",
-      "owned": true
-    },
-    {
-      "name": "Gambit Horseman of Death",
-      "id": "GambitHorseman",
-      "owned": true
     },
     {
       "name": "En Sabah Nur",
@@ -319,11 +243,6 @@
       "owned": false
     },
     {
-      "name": "Major Victory",
-      "id": "MajorVictory",
-      "owned": true
-    },
-    {
       "name": "Drax, Avatar Of Life",
       "id": "DraxAvatarOfLife",
       "owned": false
@@ -349,11 +268,6 @@
       "owned": false
     },
     {
-      "name": "Fin Fang Foom",
-      "id": "FinFangFoom",
-      "owned": true
-    },
-    {
       "name": "Lin Lie Iron Fist",
       "id": "LinLie",
       "owned": false
@@ -372,11 +286,6 @@
       "name": "Lockheed",
       "id": "Lockheed",
       "owned": false
-    },
-    {
-      "name": "Majestic Wingbeat",
-      "id": "MajesticWingbeat",
-      "owned": true
     },
     {
       "name": "Shou-Lao the Undying",
@@ -399,11 +308,6 @@
       "owned": false
     },
     {
-      "name": "Marrow",
-      "id": "Marrow",
-      "owned": true
-    },
-    {
       "name": "Wild Child",
       "id": "WildChild",
       "owned": false
@@ -417,11 +321,6 @@
       "name": "Weapon H",
       "id": "WeaponH",
       "owned": false
-    },
-    {
-      "name": "Wade Wilson",
-      "id": "WadeWilson",
-      "owned": true
     },
     {
       "name": "Adamantium Infusion",
@@ -444,24 +343,9 @@
       "owned": false
     },
     {
-      "name": "Hydro-Man",
-      "id": "HydroMan",
-      "owned": true
-    },
-    {
-      "name": "Deafening Chord",
-      "id": "DeafeningChord",
-      "owned": true
-    },
-    {
       "name": "Spider-Man Noir",
       "id": "SpiderManNoir",
       "owned": false
-    },
-    {
-      "name": "Chameleon",
-      "id": "Chameleon",
-      "owned": true
     },
     {
       "name": "Ezekiel Sims",
@@ -484,34 +368,9 @@
       "owned": false
     },
     {
-      "name": "Web Sling",
-      "id": "WebSling",
-      "owned": true
-    },
-    {
-      "name": "Zombie Galacti",
-      "id": "ZombieGalacti",
-      "owned": true
-    },
-    {
-      "name": "Zombie Sentry",
-      "id": "ZombieSentry",
-      "owned": true
-    },
-    {
       "name": "Zombie Captain Marvel",
       "id": "ZombieCaptainMarvel",
       "owned": false
-    },
-    {
-      "name": "The Hunger",
-      "id": "TheHunger",
-      "owned": true
-    },
-    {
-      "name": "Zombie Mister Fantastic",
-      "id": "ZombieMisterFantastic",
-      "owned": true
     },
     {
       "name": "Colonel America",
@@ -524,16 +383,6 @@
       "owned": false
     },
     {
-      "name": "Zombie Giant-Man",
-      "id": "ZombieGiantMan",
-      "owned": true
-    },
-    {
-      "name": "Zombie Power Man",
-      "id": "ZombiePowerMan",
-      "owned": true
-    },
-    {
       "name": "Zombie Scarlet Witch",
       "id": "ZombieScarletWitch",
       "owned": false
@@ -544,19 +393,9 @@
       "owned": false
     },
     {
-      "name": "Super-Adaptoid",
-      "id": "SuperAdaptoid",
-      "owned": true
-    },
-    {
       "name": "Warlock",
       "id": "Warlock",
       "owned": false
-    },
-    {
-      "name": "Danger",
-      "id": "Danger",
-      "owned": true
     },
     {
       "name": "Jim Hammond Human Torch",
@@ -569,19 +408,9 @@
       "owned": false
     },
     {
-      "name": "Awesome Andy",
-      "id": "AwesomeAndy",
-      "owned": true
-    },
-    {
       "name": "Moira X",
       "id": "MoiraX",
       "owned": false
-    },
-    {
-      "name": "Omega Sentinel",
-      "id": "KarimaShapandar",
-      "owned": true
     },
     {
       "name": "Sparky",
@@ -599,39 +428,9 @@
       "owned": false
     },
     {
-      "name": "Air-Walker",
-      "id": "AirWalker",
-      "owned": true
-    },
-    {
-      "name": "Firelord",
-      "id": "Firelord",
-      "owned": true
-    },
-    {
-      "name": "The Fallen One",
-      "id": "FallenOne",
-      "owned": true
-    },
-    {
       "name": "Nova Frankie Raye",
       "id": "FrankieRaye",
       "owned": false
-    },
-    {
-      "name": "Galactus First Steps",
-      "id": "GalactusFirstSteps",
-      "owned": true
-    },
-    {
-      "name": "Red Shift",
-      "id": "RedShift",
-      "owned": true
-    },
-    {
-      "name": "Silver Surfer First Steps",
-      "id": "SilverSurferFirstSteps",
-      "owned": true
     },
     {
       "name": "Stardust",
@@ -639,24 +438,9 @@
       "owned": false
     },
     {
-      "name": "Terrax the Tamer",
-      "id": "Terrax",
-      "owned": true
-    },
-    {
       "name": "Invisible Woman First Steps",
       "id": "InvisibleWomanFirstSteps",
       "owned": false
-    },
-    {
-      "name": "Mad Thinker",
-      "id": "MadThinker",
-      "owned": true
-    },
-    {
-      "name": "Mole Man",
-      "id": "MoleMan",
-      "owned": true
     },
     {
       "name": "The Thing First Steps",
@@ -667,11 +451,6 @@
       "name": "Human Torch First Steps",
       "id": "HumanTorchFirstSteps",
       "owned": false
-    },
-    {
-      "name": "Fantasticar",
-      "id": "Fantasticar",
-      "owned": true
     },
     {
       "name": "H.E.R.B.I.E.",
@@ -704,11 +483,6 @@
       "owned": false
     },
     {
-      "name": "Cobra",
-      "id": "Cobra",
-      "owned": true
-    },
-    {
       "name": "Kid Omega",
       "id": "KidOmega",
       "owned": false
@@ -719,21 +493,6 @@
       "owned": false
     },
     {
-      "name": "Hellion",
-      "id": "Hellion",
-      "owned": true
-    },
-    {
-      "name": "Jennifer Kale",
-      "id": "JenniferKale",
-      "owned": true
-    },
-    {
-      "name": "Mercury",
-      "id": "Mercury",
-      "owned": true
-    },
-    {
       "name": "Merlin",
       "id": "Merlin",
       "owned": false
@@ -742,11 +501,6 @@
       "name": "Morgan le Fay",
       "id": "MorganLeFay",
       "owned": false
-    },
-    {
-      "name": "Nicholas Scratch",
-      "id": "NicholasScratch",
-      "owned": true
     },
     {
       "name": "Xorn",
@@ -772,11 +526,6 @@
       "name": "Surge",
       "id": "Surge",
       "owned": false
-    },
-    {
-      "name": "Batroc the Leaper",
-      "id": "Batroc",
-      "owned": true
     },
     {
       "name": "Fan Fei",
@@ -824,16 +573,6 @@
       "owned": false
     },
     {
-      "name": "Khonshu",
-      "id": "Khonshu",
-      "owned": true
-    },
-    {
-      "name": "The First Ghost Rider",
-      "id": "GhostTheFirstRider",
-      "owned": true
-    },
-    {
       "name": "Firehair",
       "id": "Firehair",
       "owned": false
@@ -857,21 +596,6 @@
       "name": "Diamondback",
       "id": "Diamondback",
       "owned": false
-    },
-    {
-      "name": "Gorgon",
-      "id": "Gorgon",
-      "owned": true
-    },
-    {
-      "name": "Laufey",
-      "id": "Laufey",
-      "owned": true
-    },
-    {
-      "name": "Uncle Ben",
-      "id": "UncleBen",
-      "owned": true
     },
     {
       "name": "Redwing",
@@ -909,29 +633,9 @@
       "owned": false
     },
     {
-      "name": "Iron Patriot",
-      "id": "IronPatriot",
-      "owned": true
-    },
-    {
-      "name": "Victoria Hand",
-      "id": "VictoriaHand",
-      "owned": true
-    },
-    {
       "name": "Rocket and Groot",
       "id": "RocketAndGroot",
       "owned": false
-    },
-    {
-      "name": "Lasher",
-      "id": "Lasher",
-      "owned": true
-    },
-    {
-      "name": "Bruce Banner",
-      "id": "BruceBanner",
-      "owned": true
     },
     {
       "name": "Doctor Doom 2099",
@@ -944,11 +648,6 @@
       "owned": false
     },
     {
-      "name": "Galacta",
-      "id": "Galacta",
-      "owned": true
-    },
-    {
       "name": "Luna Snow",
       "id": "LunaSnow",
       "owned": false
@@ -957,11 +656,6 @@
       "name": "Gorr the God Butcher",
       "id": "Gorr",
       "owned": false
-    },
-    {
-      "name": "King Eitri",
-      "id": "KingEitri",
-      "owned": true
     },
     {
       "name": "Fenris Wolf",
@@ -974,29 +668,9 @@
       "owned": false
     },
     {
-      "name": "Frigga",
-      "id": "Frigga",
-      "owned": true
-    },
-    {
       "name": "Surtur",
       "id": "Surtur",
       "owned": false
-    },
-    {
-      "name": "Anti-Venom",
-      "id": "AntiVenom",
-      "owned": true
-    },
-    {
-      "name": "Toxin",
-      "id": "Toxin",
-      "owned": true
-    },
-    {
-      "name": "Agony",
-      "id": "Agony",
-      "owned": true
     },
     {
       "name": "Scorn",
@@ -1012,11 +686,6 @@
       "name": "Agent Venom",
       "id": "AgentVenom",
       "owned": false
-    },
-    {
-      "name": "Scream",
-      "id": "Scream",
-      "owned": true
     },
     {
       "name": "Scarlet Spider",
@@ -1059,11 +728,6 @@
       "owned": false
     },
     {
-      "name": "Hawkeye Kate Bishop",
-      "id": "KateBishop",
-      "owned": true
-    },
-    {
       "name": "Marvel Boy",
       "id": "MarvelBoy",
       "owned": false
@@ -1072,16 +736,6 @@
       "name": "Cassandra Nova",
       "id": "CassandraNova",
       "owned": false
-    },
-    {
-      "name": "Copycat",
-      "id": "Copycat",
-      "owned": true
-    },
-    {
-      "name": "Ajax",
-      "id": "Ajax",
-      "owned": true
     },
     {
       "name": "Gwenpool",
@@ -1094,21 +748,6 @@
       "owned": false
     },
     {
-      "name": "Arishem",
-      "id": "Arishem",
-      "owned": true
-    },
-    {
-      "name": "Phastos",
-      "id": "Phastos",
-      "owned": true
-    },
-    {
-      "name": "Makkari",
-      "id": "Makkari",
-      "owned": true
-    },
-    {
       "name": "Sersi",
       "id": "Sersi",
       "owned": false
@@ -1119,29 +758,9 @@
       "owned": false
     },
     {
-      "name": "Thena",
-      "id": "Thena",
-      "owned": true
-    },
-    {
-      "name": "Sasquatch",
-      "id": "Sasquatch",
-      "owned": true
-    },
-    {
       "name": "Namora",
       "id": "Namora",
       "owned": false
-    },
-    {
-      "name": "Sage",
-      "id": "Sage",
-      "owned": true
-    },
-    {
-      "name": "Blink",
-      "id": "Blink",
-      "owned": true
     },
     {
       "name": "Nocturne",
@@ -1159,16 +778,6 @@
       "owned": false
     },
     {
-      "name": "Red Guardian",
-      "id": "RedGuardian",
-      "owned": true
-    },
-    {
-      "name": "U.S. Agent",
-      "id": "USAgent",
-      "owned": true
-    },
-    {
       "name": "Baron Zemo",
       "id": "BaronZemo",
       "owned": false
@@ -1177,16 +786,6 @@
       "name": "Red Hulk",
       "id": "RedHulk",
       "owned": false
-    },
-    {
-      "name": "War Machine",
-      "id": "WarMachine",
-      "owned": true
-    },
-    {
-      "name": "Cannonball",
-      "id": "Cannonball",
-      "owned": true
     },
     {
       "name": "Mockingbird",
@@ -1209,6 +808,451 @@
       "owned": false
     },
     {
+      "name": "Black Swan",
+      "id": "BlackSwan",
+      "owned": false
+    },
+    {
+      "name": "Caiera",
+      "id": "Caiera",
+      "owned": false
+    },
+    {
+      "name": "Skaar",
+      "id": "Skaar",
+      "owned": false
+    },
+    {
+      "name": "Ms. Marvel",
+      "id": "MsMarvel",
+      "owned": false
+    },
+    {
+      "name": "Alioth",
+      "id": "Alioth",
+      "owned": false
+    },
+    {
+      "name": "Kang",
+      "id": "Kang",
+      "owned": false
+    },
+    {
+      "name": "Thanos",
+      "id": "Thanos",
+      "owned": false
+    },
+    {
+      "name": "Hellcow Fractured Frontier",
+      "id": "HellcowFracturedFrontier",
+      "owned": true
+    },
+    {
+      "name": "Doctor Octopus Fractured Frontier",
+      "id": "DoctorOctopusFracturedFrontier",
+      "owned": true
+    },
+    {
+      "name": "Thanos Fractured Frontier",
+      "id": "ThanosFracturedFrontier",
+      "owned": true
+    },
+    {
+      "name": "Spider Sense",
+      "id": "SpiderSense",
+      "owned": true
+    },
+    {
+      "name": "J. Jonah Jameson",
+      "id": "JJonahJameson",
+      "owned": true
+    },
+    {
+      "name": "Tombstone",
+      "id": "Tombstone",
+      "owned": true
+    },
+    {
+      "name": "Triton",
+      "id": "Triton",
+      "owned": true
+    },
+    {
+      "name": "Quicksand",
+      "id": "Quicksand",
+      "owned": true
+    },
+    {
+      "name": "Jeff the Baby Dolphin!?",
+      "id": "JeffTheBabyDolphin",
+      "owned": true
+    },
+    {
+      "name": "Stick",
+      "id": "Stick",
+      "owned": true
+    },
+    {
+      "name": "Ikari",
+      "id": "Ikari",
+      "owned": true
+    },
+    {
+      "name": "Mother Askani",
+      "id": "MotherAskani",
+      "owned": true
+    },
+    {
+      "name": "Askani'son",
+      "id": "Askanison",
+      "owned": true
+    },
+    {
+      "name": "Ozymandias",
+      "id": "Ozymandias",
+      "owned": true
+    },
+    {
+      "name": "Caliban Horseman of Pestilence",
+      "id": "CalibanHorseman",
+      "owned": true
+    },
+    {
+      "name": "Sandstorm",
+      "id": "Sandstorm",
+      "owned": true
+    },
+    {
+      "name": "Gambit Horseman of Death",
+      "id": "GambitHorseman",
+      "owned": true
+    },
+    {
+      "name": "Major Victory",
+      "id": "MajorVictory",
+      "owned": true
+    },
+    {
+      "name": "Fin Fang Foom",
+      "id": "FinFangFoom",
+      "owned": true
+    },
+    {
+      "name": "Majestic Wingbeat",
+      "id": "MajesticWingbeat",
+      "owned": true
+    },
+    {
+      "name": "Marrow",
+      "id": "Marrow",
+      "owned": true
+    },
+    {
+      "name": "Wade Wilson",
+      "id": "WadeWilson",
+      "owned": true
+    },
+    {
+      "name": "Hydro-Man",
+      "id": "HydroMan",
+      "owned": true
+    },
+    {
+      "name": "Deafening Chord",
+      "id": "DeafeningChord",
+      "owned": true
+    },
+    {
+      "name": "Chameleon",
+      "id": "Chameleon",
+      "owned": true
+    },
+    {
+      "name": "Web Sling",
+      "id": "WebSling",
+      "owned": true
+    },
+    {
+      "name": "Zombie Galacti",
+      "id": "ZombieGalacti",
+      "owned": true
+    },
+    {
+      "name": "Zombie Sentry",
+      "id": "ZombieSentry",
+      "owned": true
+    },
+    {
+      "name": "The Hunger",
+      "id": "TheHunger",
+      "owned": true
+    },
+    {
+      "name": "Zombie Mister Fantastic",
+      "id": "ZombieMisterFantastic",
+      "owned": true
+    },
+    {
+      "name": "Zombie Giant-Man",
+      "id": "ZombieGiantMan",
+      "owned": true
+    },
+    {
+      "name": "Zombie Power Man",
+      "id": "ZombiePowerMan",
+      "owned": true
+    },
+    {
+      "name": "Super-Adaptoid",
+      "id": "SuperAdaptoid",
+      "owned": true
+    },
+    {
+      "name": "Danger",
+      "id": "Danger",
+      "owned": true
+    },
+    {
+      "name": "Awesome Andy",
+      "id": "AwesomeAndy",
+      "owned": true
+    },
+    {
+      "name": "Omega Sentinel",
+      "id": "KarimaShapandar",
+      "owned": true
+    },
+    {
+      "name": "Air-Walker",
+      "id": "AirWalker",
+      "owned": true
+    },
+    {
+      "name": "Firelord",
+      "id": "Firelord",
+      "owned": true
+    },
+    {
+      "name": "The Fallen One",
+      "id": "FallenOne",
+      "owned": true
+    },
+    {
+      "name": "Galactus First Steps",
+      "id": "GalactusFirstSteps",
+      "owned": true
+    },
+    {
+      "name": "Red Shift",
+      "id": "RedShift",
+      "owned": true
+    },
+    {
+      "name": "Silver Surfer First Steps",
+      "id": "SilverSurferFirstSteps",
+      "owned": true
+    },
+    {
+      "name": "Terrax the Tamer",
+      "id": "Terrax",
+      "owned": true
+    },
+    {
+      "name": "Mad Thinker",
+      "id": "MadThinker",
+      "owned": true
+    },
+    {
+      "name": "Mole Man",
+      "id": "MoleMan",
+      "owned": true
+    },
+    {
+      "name": "Fantasticar",
+      "id": "Fantasticar",
+      "owned": true
+    },
+    {
+      "name": "Cobra",
+      "id": "Cobra",
+      "owned": true
+    },
+    {
+      "name": "Hellion",
+      "id": "Hellion",
+      "owned": true
+    },
+    {
+      "name": "Jennifer Kale",
+      "id": "JenniferKale",
+      "owned": true
+    },
+    {
+      "name": "Mercury",
+      "id": "Mercury",
+      "owned": true
+    },
+    {
+      "name": "Nicholas Scratch",
+      "id": "NicholasScratch",
+      "owned": true
+    },
+    {
+      "name": "Batroc the Leaper",
+      "id": "Batroc",
+      "owned": true
+    },
+    {
+      "name": "Khonshu",
+      "id": "Khonshu",
+      "owned": true
+    },
+    {
+      "name": "The First Ghost Rider",
+      "id": "GhostTheFirstRider",
+      "owned": true
+    },
+    {
+      "name": "Gorgon",
+      "id": "Gorgon",
+      "owned": true
+    },
+    {
+      "name": "Laufey",
+      "id": "Laufey",
+      "owned": true
+    },
+    {
+      "name": "Uncle Ben",
+      "id": "UncleBen",
+      "owned": true
+    },
+    {
+      "name": "Iron Patriot",
+      "id": "IronPatriot",
+      "owned": true
+    },
+    {
+      "name": "Victoria Hand",
+      "id": "VictoriaHand",
+      "owned": true
+    },
+    {
+      "name": "Lasher",
+      "id": "Lasher",
+      "owned": true
+    },
+    {
+      "name": "Bruce Banner",
+      "id": "BruceBanner",
+      "owned": true
+    },
+    {
+      "name": "Galacta",
+      "id": "Galacta",
+      "owned": true
+    },
+    {
+      "name": "King Eitri",
+      "id": "KingEitri",
+      "owned": true
+    },
+    {
+      "name": "Frigga",
+      "id": "Frigga",
+      "owned": true
+    },
+    {
+      "name": "Anti-Venom",
+      "id": "AntiVenom",
+      "owned": true
+    },
+    {
+      "name": "Toxin",
+      "id": "Toxin",
+      "owned": true
+    },
+    {
+      "name": "Agony",
+      "id": "Agony",
+      "owned": true
+    },
+    {
+      "name": "Scream",
+      "id": "Scream",
+      "owned": true
+    },
+    {
+      "name": "Hawkeye Kate Bishop",
+      "id": "KateBishop",
+      "owned": true
+    },
+    {
+      "name": "Copycat",
+      "id": "Copycat",
+      "owned": true
+    },
+    {
+      "name": "Ajax",
+      "id": "Ajax",
+      "owned": true
+    },
+    {
+      "name": "Arishem",
+      "id": "Arishem",
+      "owned": true
+    },
+    {
+      "name": "Phastos",
+      "id": "Phastos",
+      "owned": true
+    },
+    {
+      "name": "Makkari",
+      "id": "Makkari",
+      "owned": true
+    },
+    {
+      "name": "Thena",
+      "id": "Thena",
+      "owned": true
+    },
+    {
+      "name": "Sasquatch",
+      "id": "Sasquatch",
+      "owned": true
+    },
+    {
+      "name": "Sage",
+      "id": "Sage",
+      "owned": true
+    },
+    {
+      "name": "Blink",
+      "id": "Blink",
+      "owned": true
+    },
+    {
+      "name": "Red Guardian",
+      "id": "RedGuardian",
+      "owned": true
+    },
+    {
+      "name": "U.S. Agent",
+      "id": "USAgent",
+      "owned": true
+    },
+    {
+      "name": "War Machine",
+      "id": "WarMachine",
+      "owned": true
+    },
+    {
+      "name": "Cannonball",
+      "id": "Cannonball",
+      "owned": true
+    },
+    {
       "name": "Corvus Glaive",
       "id": "CorvusGlaive",
       "owned": true
@@ -1217,11 +1261,6 @@
       "name": "Cull Obsidian",
       "id": "CullObsidian",
       "owned": true
-    },
-    {
-      "name": "Black Swan",
-      "id": "BlackSwan",
-      "owned": false
     },
     {
       "name": "Supergiant",
@@ -1247,16 +1286,6 @@
       "name": "Hercules",
       "id": "Hercules",
       "owned": true
-    },
-    {
-      "name": "Caiera",
-      "id": "Caiera",
-      "owned": false
-    },
-    {
-      "name": "Skaar",
-      "id": "Skaar",
-      "owned": false
     },
     {
       "name": "Selene",
@@ -1294,11 +1323,6 @@
       "owned": true
     },
     {
-      "name": "Ms. Marvel",
-      "id": "MsMarvel",
-      "owned": false
-    },
-    {
       "name": "Werewolf By Night",
       "id": "WerewolfByNight",
       "owned": true
@@ -1332,11 +1356,6 @@
       "name": "Ravonna Renslayer",
       "id": "RavonnaRenslayer",
       "owned": true
-    },
-    {
-      "name": "Alioth",
-      "id": "Alioth",
-      "owned": false
     },
     {
       "name": "Loki",
@@ -1474,11 +1493,6 @@
       "owned": true
     },
     {
-      "name": "Kang",
-      "id": "Kang",
-      "owned": false
-    },
-    {
       "name": "Stature",
       "id": "Stature",
       "owned": true
@@ -1602,11 +1616,6 @@
       "name": "Super-Skrull",
       "id": "SuperSkrull",
       "owned": true
-    },
-    {
-      "name": "Thanos",
-      "id": "Thanos",
-      "owned": false
     },
     {
       "name": "Titania",

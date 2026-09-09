@@ -15,6 +15,6 @@ This repository contains the latest available SnapComplete collection snapshot i
 6. For a question asking what is owned now, treat a snapshot older than two hours as stale and do not present it as current.
 7. Do not overwrite the snapshot unless the extractor has completed validation.
 
-`.github/workflows/refresh-collection.yml` runs the rendered SnapComplete extractor hourly and commits `collection.json` only when the validated snapshot changes. `refresh_collection.mjs` uses a temporary browser runner on GitHub's runner; it is not stored in the repository dependencies.
+`.github/workflows/refresh-collection.yml` runs the rendered SnapComplete extractor hourly and commits `collection.json` only when the validated snapshot changes. `refresh_collection.mjs` reads both the owned and `?owned=Missing` views because SnapComplete no longer renders the complete collection in one view. It uses a temporary browser runner on GitHub's runner; it is not stored in the repository dependencies.
 
 The service intentionally keeps only one snapshot and overwrites `collection.json` atomically. This file is guidance for any AI connected to the repository; it is not a live connection by itself. The AI or connector must have read access to the repository.
