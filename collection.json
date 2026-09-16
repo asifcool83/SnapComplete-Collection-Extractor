@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-16T16:43:05.859Z",
+  "extracted_at": "2026-09-16T19:58:52.894Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 494,
+    "total": 495,
     "owned": 334,
-    "unowned": 160,
+    "unowned": 161,
     "unknown": 0
   },
   "series_summary": {
@@ -29,7 +29,7 @@
     },
     "S4": {
       "owned": 79,
-      "total": 89
+      "total": 90
     },
     "S5": {
       "owned": 33,
@@ -37,6 +37,11 @@
     }
   },
   "cards": [
+    {
+      "name": "Entropic Havok",
+      "id": "EntropicHavok",
+      "owned": false
+    },
     {
       "name": "Rogue Scion of Division",
       "id": "RogueScionOfDivision",
