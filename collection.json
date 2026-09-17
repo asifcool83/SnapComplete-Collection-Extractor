@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-17T18:08:27.946Z",
+  "extracted_at": "2026-09-17T22:04:12.743Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 495,
-    "owned": 334,
-    "unowned": 161,
+    "owned": 336,
+    "unowned": 159,
     "unknown": 0
   },
   "series_summary": {
@@ -28,20 +28,15 @@
       "total": 125
     },
     "S4": {
-      "owned": 79,
+      "owned": 80,
       "total": 90
     },
     "S5": {
-      "owned": 33,
+      "owned": 34,
       "total": 183
     }
   },
   "cards": [
-    {
-      "name": "Entropic Havok",
-      "id": "EntropicHavok",
-      "owned": false
-    },
     {
       "name": "Rogue Scion of Division",
       "id": "RogueScionOfDivision",
@@ -743,11 +738,6 @@
       "owned": false
     },
     {
-      "name": "Cassandra Nova",
-      "id": "CassandraNova",
-      "owned": false
-    },
-    {
       "name": "Gwenpool",
       "id": "Gwenpool",
       "owned": false
@@ -841,6 +831,11 @@
       "name": "Thanos",
       "id": "Thanos",
       "owned": false
+    },
+    {
+      "name": "Entropic Havok",
+      "id": "EntropicHavok",
+      "owned": true
     },
     {
       "name": "Hellcow Fractured Frontier",
@@ -1185,6 +1180,11 @@
     {
       "name": "Hawkeye Kate Bishop",
       "id": "KateBishop",
+      "owned": true
+    },
+    {
+      "name": "Cassandra Nova",
+      "id": "CassandraNova",
       "owned": true
     },
     {
