@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-19T14:18:49.181Z",
+  "extracted_at": "2026-09-19T17:55:59.040Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 495,
-    "owned": 336,
-    "unowned": 159,
+    "owned": 337,
+    "unowned": 158,
     "unknown": 0
   },
   "series_summary": {
@@ -28,7 +28,7 @@
       "total": 125
     },
     "S4": {
-      "owned": 80,
+      "owned": 81,
       "total": 90
     },
     "S5": {
@@ -530,11 +530,6 @@
     {
       "name": "Surge",
       "id": "Surge",
-      "owned": false
-    },
-    {
-      "name": "Fan Fei",
-      "id": "FanFei",
       "owned": false
     },
     {
@@ -1095,6 +1090,11 @@
     {
       "name": "Batroc the Leaper",
       "id": "Batroc",
+      "owned": true
+    },
+    {
+      "name": "Fan Fei",
+      "id": "FanFei",
       "owned": true
     },
     {
