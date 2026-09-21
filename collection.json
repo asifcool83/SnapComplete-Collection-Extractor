@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-21T04:47:40.939Z",
+  "extracted_at": "2026-09-21T10:36:27.484Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 495,
-    "owned": 337,
-    "unowned": 158,
+    "owned": 338,
+    "unowned": 157,
     "unknown": 0
   },
   "series_summary": {
@@ -32,7 +32,7 @@
       "total": 90
     },
     "S5": {
-      "owned": 34,
+      "owned": 35,
       "total": 183
     }
   },
@@ -653,11 +653,6 @@
       "owned": false
     },
     {
-      "name": "Gorr the God Butcher",
-      "id": "Gorr",
-      "owned": false
-    },
-    {
       "name": "Fenris Wolf",
       "id": "FenrisWolf",
       "owned": false
@@ -1145,6 +1140,11 @@
     {
       "name": "Galacta",
       "id": "Galacta",
+      "owned": true
+    },
+    {
+      "name": "Gorr the God Butcher",
+      "id": "Gorr",
       "owned": true
     },
     {
