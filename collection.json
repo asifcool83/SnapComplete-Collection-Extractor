@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-22T18:44:50.976Z",
+  "extracted_at": "2026-09-22T21:59:11.214Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 495,
+    "total": 496,
     "owned": 338,
-    "unowned": 157,
+    "unowned": 158,
     "unknown": 0
   },
   "series_summary": {
@@ -33,10 +33,15 @@
     },
     "S5": {
       "owned": 35,
-      "total": 183
+      "total": 184
     }
   },
   "cards": [
+    {
+      "name": "Friendly Neighborhood Carnage",
+      "id": "FriendlyNeighborhoodCarnage",
+      "owned": false
+    },
     {
       "name": "Rogue Scion of Division",
       "id": "RogueScionOfDivision",
