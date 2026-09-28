@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-28T15:17:18.178Z",
+  "extracted_at": "2026-09-28T21:49:13.237Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 496,
+    "total": 497,
     "owned": 339,
-    "unowned": 157,
+    "unowned": 158,
     "unknown": 0
   },
   "series_summary": {
@@ -29,7 +29,7 @@
     },
     "S4": {
       "owned": 82,
-      "total": 90
+      "total": 91
     },
     "S5": {
       "owned": 35,
@@ -37,6 +37,11 @@
     }
   },
   "cards": [
+    {
+      "name": "The Inversion",
+      "id": "TheInversion",
+      "owned": false
+    },
     {
       "name": "Friendly Neighborhood Carnage",
       "id": "FriendlyNeighborhoodCarnage",
