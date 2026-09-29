@@ -10,11 +10,11 @@
     "method": "Playwright rendered DOM from owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-09-29T15:39:30.439Z",
+  "extracted_at": "2026-09-29T20:40:03.404Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 497,
-    "owned": 339,
+    "total": 498,
+    "owned": 340,
     "unowned": 158,
     "unknown": 0
   },
@@ -28,18 +28,18 @@
       "total": 125
     },
     "S4": {
-      "owned": 82,
+      "owned": 83,
       "total": 91
     },
     "S5": {
       "owned": 35,
-      "total": 184
+      "total": 185
     }
   },
   "cards": [
     {
-      "name": "The Inversion",
-      "id": "TheInversion",
+      "name": "Scarlet Witch Queen of Chaos",
+      "id": "ScarletWitchQueenOfChaos",
       "owned": false
     },
     {
@@ -826,6 +826,11 @@
       "name": "Thanos",
       "id": "Thanos",
       "owned": false
+    },
+    {
+      "name": "The Inversion",
+      "id": "TheInversion",
+      "owned": true
     },
     {
       "name": "Entropic Havok",
