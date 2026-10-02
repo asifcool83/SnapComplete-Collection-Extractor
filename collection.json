@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-10-02T15:42:00.987Z",
+  "extracted_at": "2026-10-02T20:38:31.841Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 498,
-    "owned": 340,
-    "unowned": 158,
+    "owned": 341,
+    "unowned": 157,
     "unknown": 0
   },
   "series_summary": {
@@ -32,7 +32,7 @@
       "total": 91
     },
     "S5": {
-      "owned": 35,
+      "owned": 36,
       "total": 185
     }
   },
@@ -748,11 +748,6 @@
       "owned": false
     },
     {
-      "name": "Sersi",
-      "id": "Sersi",
-      "owned": false
-    },
-    {
       "name": "Gilgamesh",
       "id": "Gilgamesh",
       "owned": false
@@ -1220,6 +1215,11 @@
     {
       "name": "Makkari",
       "id": "Makkari",
+      "owned": true
+    },
+    {
+      "name": "Sersi",
+      "id": "Sersi",
       "owned": true
     },
     {
