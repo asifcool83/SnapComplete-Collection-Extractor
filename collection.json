@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-10-04T17:26:45.198Z",
+  "extracted_at": "2026-10-04T21:14:21.106Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 498,
-    "owned": 341,
-    "unowned": 157,
+    "owned": 342,
+    "unowned": 156,
     "unknown": 0
   },
   "series_summary": {
@@ -28,7 +28,7 @@
       "total": 125
     },
     "S4": {
-      "owned": 83,
+      "owned": 84,
       "total": 91
     },
     "S5": {
@@ -240,11 +240,6 @@
     {
       "name": "Juggernaut Horseman of War",
       "id": "JuggernautHorseman",
-      "owned": false
-    },
-    {
-      "name": "Starhawk",
-      "id": "Starhawk",
       "owned": false
     },
     {
@@ -915,6 +910,11 @@
     {
       "name": "Gambit Horseman of Death",
       "id": "GambitHorseman",
+      "owned": true
+    },
+    {
+      "name": "Starhawk",
+      "id": "Starhawk",
       "owned": true
     },
     {
