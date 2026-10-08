@@ -7,15 +7,15 @@
       "https://snapcomplete.com/u/abjcwf/cards",
       "https://snapcomplete.com/u/abjcwf/cards?owned=Missing"
     ],
-    "method": "Playwright rendered DOM from owned and missing views",
+    "method": "Playwright rendered DOM from all paginated owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-10-05T15:52:03.258Z",
+  "extracted_at": "2026-10-08T04:11:27.799Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 498,
+    "total": 501,
     "owned": 342,
-    "unowned": 156,
+    "unowned": 159,
     "unknown": 0
   },
   "series_summary": {
@@ -33,10 +33,25 @@
     },
     "S5": {
       "owned": 36,
-      "total": 185
+      "total": 188
     }
   },
   "cards": [
+    {
+      "name": "Vampire Killmonger",
+      "id": "VampireKillmonger",
+      "owned": false
+    },
+    {
+      "name": "Zombie Blade",
+      "id": "ZombieBlade",
+      "owned": false
+    },
+    {
+      "name": "Zombie Venom",
+      "id": "ZombieVenom",
+      "owned": false
+    },
     {
       "name": "Scarlet Witch Queen of Chaos",
       "id": "ScarletWitchQueenOfChaos",
