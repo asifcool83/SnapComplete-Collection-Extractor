@@ -32,8 +32,21 @@ jobs:
           npm install --no-save playwright
           npx playwright install --with-deps chromium
 
-      - name: Extract and validate collection
-        run: node refresh_collection.mjs
+      - name: Extract and validate collection (retry transient failures)
+        run: |
+          for attempt in 1 2 3; do
+            echo "Collection refresh attempt $attempt of 3"
+            if node refresh_collection.mjs; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 3 ]; then
+              delay=$((attempt * 15))
+              echo "Refresh failed; retrying in $delay seconds."
+              sleep "$delay"
+            fi
+          done
+          echo "Refresh failed after 3 attempts. The previous validated snapshot remains untouched." >&2
+          exit 1
 
       - name: Commit changed snapshot
         run: |
