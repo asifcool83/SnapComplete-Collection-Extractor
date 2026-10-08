@@ -2,9 +2,10 @@ import { chromium } from "playwright";
 import fs from "node:fs/promises";
 
 const PROFILE_URL = "https://snapcomplete.com/u/abjcwf/cards";
-const MISSING_URL = `${PROFILE_URL}?owned=Missing`;
+const MISSING_URL = PROFILE_URL + "?owned=Missing";
 const CARD_SELECTOR = ".card-grid-item[aria-label]";
 const OUT = "collection.json";
+const MAX_PAGES_PER_VIEW = 20;
 
 const clean = (value) => (value || "").replace(/\s+/g, " ").trim();
 
@@ -14,40 +15,77 @@ const cardIdFromImage = (url) => {
 };
 
 const cardKey = (card) => card.id
-  ? `id:${card.id}`
-  : `name:${clean(card.name).toLowerCase()}`;
+  ? "id:" + card.id
+  : "name:" + clean(card.name).toLowerCase();
 
 const readView = async (page, url, owned) => {
   await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
   await page.locator(CARD_SELECTOR).first().waitFor({ state: "attached", timeout: 60000 });
-  await page.waitForTimeout(3000);
 
-  return page.evaluate(({ owned, selector }) => {
-    const clean = (value) => (value || "").replace(/\s+/g, " ").trim();
-    const cardIdFromImage = (url) => {
-      const match = (url || "").match(/\/cards\/([^/?#]+?)(?:\.webp)?(?:[?#]|$)/i);
-      return match ? match[1] : null;
-    };
-    const cards = [...document.querySelectorAll(selector)].map((card) => {
-      const image = card.querySelector("img");
-      const imageUrl = image?.currentSrc || image?.src || null;
-      const id = cardIdFromImage(imageUrl);
-      return {
-        name: card.getAttribute("aria-label") || image?.alt || null,
-        id,
-        owned
+  const cards = [];
+  const pageSignatures = new Set();
+  let series_summary = {};
+  let profile_name = "";
+
+  for (let pageNumber = 0; pageNumber < MAX_PAGES_PER_VIEW; pageNumber += 1) {
+    await page.locator(CARD_SELECTOR).first().waitFor({ state: "attached", timeout: 60000 });
+    await page.waitForTimeout(300);
+
+    const current = await page.locator(CARD_SELECTOR).evaluateAll((elements, ownedState) => {
+      const cardIdFromImage = (url) => {
+        const match = (url || "").match(/\/cards\/([^/?#]+?)(?:\.webp)?(?:[?#]|$)/i);
+        return match ? match[1] : null;
       };
-    });
-    const series_summary = {};
-    for (const [, label, ownedCount, total] of document.body.innerText.matchAll(/\b(S1\/2|S3|S4|S5):\s*(\d+)\/(\d+)/g)) {
-      series_summary[label] = { owned: Number(ownedCount), total: Number(total) };
+      return elements.map((card) => {
+        const image = card.querySelector("img");
+        const imageUrl = image?.currentSrc || image?.src || null;
+        return {
+          name: card.getAttribute("aria-label") || image?.alt || null,
+          id: cardIdFromImage(imageUrl),
+          owned: ownedState
+        };
+      });
+    }, owned);
+
+    if (!current.length) throw new Error("No cards found on page " + (pageNumber + 1) + " of " + url);
+    const signature = current.map((card) => cardKey(card)).join("|");
+    if (pageSignatures.has(signature)) {
+      throw new Error("Pagination did not advance on " + url + "; existing snapshot was preserved.");
     }
-    return {
-      profile_name: clean(document.querySelector("main h1")?.textContent),
-      series_summary,
-      cards
-    };
-  }, { owned, selector: CARD_SELECTOR });
+    pageSignatures.add(signature);
+    cards.push(...current);
+
+    if (pageNumber === 0) {
+      const pageData = await page.evaluate(() => {
+        const summary = {};
+        for (const [, label, ownedCount, total] of document.body.innerText.matchAll(/\b(S1\/2|S3|S4|S5):\s*(\d+)\/(\d+)/g)) {
+          summary[label] = { owned: Number(ownedCount), total: Number(total) };
+        }
+        return {
+          profile_name: (document.querySelector("main h1")?.textContent || "").replace(/\s+/g, " ").trim(),
+          series_summary: summary
+        };
+      });
+      profile_name = pageData.profile_name;
+      series_summary = pageData.series_summary;
+    }
+
+    const next = page.getByRole("button", { name: /^next$/i });
+    if (!(await next.isEnabled())) break;
+    if (pageNumber === MAX_PAGES_PER_VIEW - 1) {
+      throw new Error("Exceeded " + MAX_PAGES_PER_VIEW + " pages on " + url + "; existing snapshot was preserved.");
+    }
+
+    const firstCardBefore = await page.locator(CARD_SELECTOR).first().getAttribute("aria-label");
+    await next.click();
+    await page.waitForFunction(
+      ({ selector, firstCardBefore }) => document.querySelector(selector)?.getAttribute("aria-label") !== firstCardBefore,
+      { selector: CARD_SELECTOR, firstCardBefore },
+      { timeout: 15000 }
+    );
+  }
+
+  return { profile_name, series_summary, cards };
 };
 
 const mergeViews = (ownedView, missingView) => {
@@ -57,9 +95,9 @@ const mergeViews = (ownedView, missingView) => {
     const existing = byKey.get(key);
     if (existing) {
       if (existing.owned !== card.owned) {
-        throw new Error(`Card appeared in both ownership views: ${card.name || key}`);
+        throw new Error("Card appeared in both ownership views: " + (card.name || key));
       }
-      throw new Error(`Card appeared more than once: ${card.name || key}`);
+      throw new Error("Card appeared more than once: " + (card.name || key));
     }
     byKey.set(key, card);
   }
@@ -72,19 +110,19 @@ const validate = (collection, previous) => {
   const expectedTotal = Object.values(series_summary)
     .reduce((sum, entry) => sum + (Number.isInteger(entry.total) ? entry.total : 0), 0);
   if (counts.total <= 0) errors.push("no cards were found");
-  if (counts.total !== cards.length) errors.push(`counts.total=${counts.total} but cards.length=${cards.length}`);
-  if (counts.unknown !== 0) errors.push(`unknown ownership count is ${counts.unknown}`);
+  if (counts.total !== cards.length) errors.push("counts.total=" + counts.total + " but cards.length=" + cards.length);
+  if (counts.unknown !== 0) errors.push("unknown ownership count is " + counts.unknown);
   if (!cards.every((card) => card.name && typeof card.owned === "boolean")) {
     errors.push("one or more cards has no name or boolean ownership");
   }
   if (expectedTotal > 0 && expectedTotal !== counts.total) {
-    errors.push(`series total=${expectedTotal} but card total=${counts.total}`);
+    errors.push("series total=" + expectedTotal + " but card total=" + counts.total);
   }
   if (previous?.counts?.total && counts.total < previous.counts.total) {
-    errors.push(`card total dropped from ${previous.counts.total} to ${counts.total}`);
+    errors.push("card total dropped from " + previous.counts.total + " to " + counts.total);
   }
   if (errors.length) {
-    throw new Error(`Collection validation failed: ${errors.join("; ")}; existing snapshot was preserved.`);
+    throw new Error("Collection validation failed: " + errors.join("; ") + "; existing snapshot was preserved.");
   }
 };
 
@@ -100,7 +138,7 @@ try {
       profile_url: PROFILE_URL,
       extracted_url: PROFILE_URL,
       view_urls: [PROFILE_URL, MISSING_URL],
-      method: "Playwright rendered DOM from owned and missing views",
+      method: "Playwright rendered DOM from all paginated owned and missing views",
       card_selector: CARD_SELECTOR
     },
     extracted_at: new Date().toISOString(),
@@ -119,7 +157,7 @@ try {
   try { previous = JSON.parse(await fs.readFile(OUT, "utf8")); } catch {}
   validate(collection, previous);
 
-  const temp = `.collection.${process.pid}.json`;
+  const temp = ".collection." + process.pid + ".json";
   await fs.writeFile(temp, JSON.stringify(collection, null, 2) + "\n");
   await fs.rename(temp, OUT);
   console.log(JSON.stringify({ extracted_at: collection.extracted_at, counts: collection.counts }));
