@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from all paginated owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-10-10T00:41:36.550Z",
+  "extracted_at": "2026-10-10T06:55:51.698Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 501,
-    "owned": 342,
-    "unowned": 159,
+    "owned": 343,
+    "unowned": 158,
     "unknown": 0
   },
   "series_summary": {
@@ -28,7 +28,7 @@
       "total": 125
     },
     "S4": {
-      "owned": 84,
+      "owned": 85,
       "total": 91
     },
     "S5": {
@@ -330,11 +330,6 @@
     {
       "name": "Fastball Special",
       "id": "FastballSpecial",
-      "owned": false
-    },
-    {
-      "name": "Wild Child",
-      "id": "WildChild",
       "owned": false
     },
     {
@@ -950,6 +945,11 @@
     {
       "name": "Marrow",
       "id": "Marrow",
+      "owned": true
+    },
+    {
+      "name": "Wild Child",
+      "id": "WildChild",
       "owned": true
     },
     {
