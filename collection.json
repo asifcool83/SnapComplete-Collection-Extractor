@@ -10,7 +10,7 @@
     "method": "Playwright rendered DOM from all paginated owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-10-13T07:36:49.458Z",
+  "extracted_at": "2026-10-13T15:51:43.606Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 501,
@@ -159,362 +159,362 @@
     },
     {
       "name": "Jubilee Silver Surfer",
-      "id": "JubileeSilverSurfer",
+      "id": null,
       "owned": false
     },
     {
       "name": "Monstro",
-      "id": "MonstroOctopus",
+      "id": null,
       "owned": false
     },
     {
       "name": "Venus",
-      "id": "Venus",
+      "id": null,
       "owned": false
     },
     {
       "name": "Lady Bullseye",
-      "id": "LadyBullseye",
+      "id": null,
       "owned": false
     },
     {
       "name": "Muse",
-      "id": "Muse",
+      "id": null,
       "owned": false
     },
     {
       "name": "Punisher War Machine",
-      "id": "PunisherWarMachine",
+      "id": null,
       "owned": false
     },
     {
       "name": "Karen Page",
-      "id": "KarenPage",
+      "id": null,
       "owned": false
     },
     {
       "name": "Shadowlands Daredevil",
-      "id": "ShadowlandsDaredevil",
+      "id": null,
       "owned": false
     },
     {
       "name": "Wilson Fisk",
-      "id": "WilsonFisk",
+      "id": null,
       "owned": false
     },
     {
       "name": "Storm Horseman of Famine",
-      "id": "StormHorseman",
+      "id": null,
       "owned": false
     },
     {
       "name": "Polaris Horseman of Pestilence",
-      "id": "PolarisHorseman",
+      "id": null,
       "owned": false
     },
     {
       "name": "Archangel Horseman of Death",
-      "id": "ArchangelHorseman",
+      "id": null,
       "owned": false
     },
     {
       "name": "Stryfe",
-      "id": "Stryfe",
+      "id": null,
       "owned": false
     },
     {
       "name": "Techno-Organic Virus",
-      "id": "TechnoOrganicVirus",
+      "id": null,
       "owned": false
     },
     {
       "name": "Wolverine Horseman of War",
-      "id": "WolverineHorseman",
+      "id": null,
       "owned": false
     },
     {
       "name": "Rama-Tut",
-      "id": "RamaTut",
+      "id": null,
       "owned": false
     },
     {
       "name": "Selene Horseman of Famine",
-      "id": "SeleneHorseman",
+      "id": null,
       "owned": false
     },
     {
       "name": "En Sabah Nur",
-      "id": "EnSabahNur",
+      "id": null,
       "owned": false
     },
     {
       "name": "Isca the Unbeaten",
-      "id": "Isca",
+      "id": null,
       "owned": false
     },
     {
       "name": "Juggernaut Horseman of War",
-      "id": "JuggernautHorseman",
+      "id": null,
       "owned": false
     },
     {
       "name": "Jack Flag",
-      "id": "JackFlag",
+      "id": null,
       "owned": false
     },
     {
       "name": "Kraglin",
-      "id": "Kraglin",
+      "id": null,
       "owned": false
     },
     {
       "name": "Drax, Avatar Of Life",
-      "id": "DraxAvatarOfLife",
+      "id": null,
       "owned": false
     },
     {
       "name": "Magus",
-      "id": "Magus",
+      "id": null,
       "owned": false
     },
     {
       "name": "Moondragon",
-      "id": "Moondragon",
+      "id": null,
       "owned": false
     },
     {
       "name": "Star-Lord, Master of the Sun",
-      "id": "StarlordMasterOfTheSun",
+      "id": null,
       "owned": false
     },
     {
       "name": "Shang-Chi, Master of the Rings",
-      "id": "ShangChiMasterOfTheRings",
+      "id": null,
       "owned": false
     },
     {
       "name": "Lin Lie Iron Fist",
-      "id": "LinLie",
+      "id": null,
       "owned": false
     },
     {
       "name": "Dragon Lord",
-      "id": "DragonLord",
+      "id": null,
       "owned": false
     },
     {
       "name": "Dragon of the Moon",
-      "id": "DragonOfTheMoon",
+      "id": null,
       "owned": false
     },
     {
       "name": "Lockheed",
-      "id": "Lockheed",
+      "id": null,
       "owned": false
     },
     {
       "name": "Shou-Lao the Undying",
-      "id": "ShouLao",
+      "id": null,
       "owned": false
     },
     {
       "name": "Fantomex",
-      "id": "Fantomex",
+      "id": null,
       "owned": false
     },
     {
       "name": "Aurora",
-      "id": "Aurora",
+      "id": null,
       "owned": false
     },
     {
       "name": "Fastball Special",
-      "id": "FastballSpecial",
+      "id": null,
       "owned": false
     },
     {
       "name": "Maverick",
-      "id": "Maverick",
+      "id": null,
       "owned": false
     },
     {
       "name": "Weapon H",
-      "id": "WeaponH",
+      "id": null,
       "owned": false
     },
     {
       "name": "Adamantium Infusion",
-      "id": "AdamantiumInfusion",
+      "id": null,
       "owned": false
     },
     {
       "name": "Chamber",
-      "id": "Chamber",
+      "id": null,
       "owned": false
     },
     {
       "name": "Weapon X Wolverine",
-      "id": "WeaponXWolverine",
+      "id": null,
       "owned": false
     },
     {
       "name": "Prowler",
-      "id": "Prowler",
+      "id": null,
       "owned": false
     },
     {
       "name": "Spider-Man Noir",
-      "id": "SpiderManNoir",
+      "id": null,
       "owned": false
     },
     {
       "name": "Ezekiel Sims",
-      "id": "EzekielSims",
+      "id": null,
       "owned": false
     },
     {
       "name": "Man-Spider",
-      "id": "ManSpider",
+      "id": null,
       "owned": false
     },
     {
       "name": "Spider-Punk",
-      "id": "SpiderPunk",
+      "id": null,
       "owned": false
     },
     {
       "name": "Superior Spider-Man",
-      "id": "SuperiorSpiderMan",
+      "id": null,
       "owned": false
     },
     {
       "name": "Zombie Captain Marvel",
-      "id": "ZombieCaptainMarvel",
+      "id": null,
       "owned": false
     },
     {
       "name": "Colonel America",
-      "id": "ColonelAmerica",
+      "id": null,
       "owned": false
     },
     {
       "name": "Headpool",
-      "id": "Headpool",
+      "id": null,
       "owned": false
     },
     {
       "name": "Zombie Scarlet Witch",
-      "id": "ZombieScarletWitch",
+      "id": null,
       "owned": false
     },
     {
       "name": "Jocasta",
-      "id": "Jocasta",
+      "id": null,
       "owned": false
     },
     {
       "name": "Warlock",
-      "id": "Warlock",
+      "id": null,
       "owned": false
     },
     {
       "name": "Jim Hammond Human Torch",
-      "id": "JimHammond",
+      "id": null,
       "owned": false
     },
     {
       "name": "Bastion",
-      "id": "Bastion",
+      "id": null,
       "owned": false
     },
     {
       "name": "Moira X",
-      "id": "MoiraX",
+      "id": null,
       "owned": false
     },
     {
       "name": "Sparky",
-      "id": "Sparky",
+      "id": null,
       "owned": false
     },
     {
       "name": "Viv Vision",
-      "id": "Viv",
+      "id": null,
       "owned": false
     },
     {
       "name": "Cosmic Ghost Rider",
-      "id": "CosmicGhostRider",
+      "id": null,
       "owned": false
     },
     {
       "name": "Nova Frankie Raye",
-      "id": "FrankieRaye",
+      "id": null,
       "owned": false
     },
     {
       "name": "Stardust",
-      "id": "Stardust",
+      "id": null,
       "owned": false
     },
     {
       "name": "Invisible Woman First Steps",
-      "id": "InvisibleWomanFirstSteps",
+      "id": null,
       "owned": false
     },
     {
       "name": "The Thing First Steps",
-      "id": "TheThingFirstSteps",
+      "id": null,
       "owned": false
     },
     {
       "name": "Human Torch First Steps",
-      "id": "HumanTorchFirstSteps",
+      "id": null,
       "owned": false
     },
     {
       "name": "H.E.R.B.I.E.",
-      "id": "Herbie",
+      "id": null,
       "owned": false
     },
     {
       "name": "Mister Fantastic First Steps",
-      "id": "MrFantasticFirstSteps",
+      "id": null,
       "owned": false
     },
     {
       "name": "Clea",
-      "id": "Clea",
+      "id": null,
       "owned": false
     },
     {
       "name": "Astral Projection",
-      "id": "AstralProjection",
+      "id": null,
       "owned": false
     },
     {
       "name": "Dormammu",
-      "id": "Dormammu",
+      "id": null,
       "owned": false
     },
     {
       "name": "Nightmare",
-      "id": "Nightmare",
+      "id": null,
       "owned": false
     },
     {
       "name": "Kid Omega",
-      "id": "KidOmega",
+      "id": null,
       "owned": false
     },
     {
       "name": "The Ancient One",
-      "id": "TheAncientOne",
+      "id": null,
       "owned": false
     },
     {
       "name": "Merlin",
-      "id": "Merlin",
+      "id": null,
       "owned": false
     },
     {
@@ -859,452 +859,452 @@
     },
     {
       "name": "J. Jonah Jameson",
-      "id": "JJonahJameson",
+      "id": null,
       "owned": true
     },
     {
       "name": "Tombstone",
-      "id": "Tombstone",
+      "id": null,
       "owned": true
     },
     {
       "name": "Triton",
-      "id": "Triton",
+      "id": null,
       "owned": true
     },
     {
       "name": "Quicksand",
-      "id": "Quicksand",
+      "id": null,
       "owned": true
     },
     {
       "name": "Jeff the Baby Dolphin!?",
-      "id": "JeffTheBabyDolphin",
+      "id": null,
       "owned": true
     },
     {
       "name": "Stick",
-      "id": "Stick",
+      "id": null,
       "owned": true
     },
     {
       "name": "Ikari",
-      "id": "Ikari",
+      "id": null,
       "owned": true
     },
     {
       "name": "Mother Askani",
-      "id": "MotherAskani",
+      "id": null,
       "owned": true
     },
     {
       "name": "Askani'son",
-      "id": "Askanison",
+      "id": null,
       "owned": true
     },
     {
       "name": "Ozymandias",
-      "id": "Ozymandias",
+      "id": null,
       "owned": true
     },
     {
       "name": "Caliban Horseman of Pestilence",
-      "id": "CalibanHorseman",
+      "id": null,
       "owned": true
     },
     {
       "name": "Sandstorm",
-      "id": "Sandstorm",
+      "id": null,
       "owned": true
     },
     {
       "name": "Gambit Horseman of Death",
-      "id": "GambitHorseman",
+      "id": null,
       "owned": true
     },
     {
       "name": "Starhawk",
-      "id": "Starhawk",
+      "id": null,
       "owned": true
     },
     {
       "name": "Major Victory",
-      "id": "MajorVictory",
+      "id": null,
       "owned": true
     },
     {
       "name": "Fin Fang Foom",
-      "id": "FinFangFoom",
+      "id": null,
       "owned": true
     },
     {
       "name": "Majestic Wingbeat",
-      "id": "MajesticWingbeat",
+      "id": null,
       "owned": true
     },
     {
       "name": "Marrow",
-      "id": "Marrow",
+      "id": null,
       "owned": true
     },
     {
       "name": "Wild Child",
-      "id": "WildChild",
+      "id": null,
       "owned": true
     },
     {
       "name": "Wade Wilson",
-      "id": "WadeWilson",
+      "id": null,
       "owned": true
     },
     {
       "name": "Hydro-Man",
-      "id": "HydroMan",
+      "id": null,
       "owned": true
     },
     {
       "name": "Deafening Chord",
-      "id": "DeafeningChord",
+      "id": null,
       "owned": true
     },
     {
       "name": "Chameleon",
-      "id": "Chameleon",
+      "id": null,
       "owned": true
     },
     {
       "name": "Web Sling",
-      "id": "WebSling",
+      "id": null,
       "owned": true
     },
     {
       "name": "Zombie Galacti",
-      "id": "ZombieGalacti",
+      "id": null,
       "owned": true
     },
     {
       "name": "Zombie Sentry",
-      "id": "ZombieSentry",
+      "id": null,
       "owned": true
     },
     {
       "name": "The Hunger",
-      "id": "TheHunger",
+      "id": null,
       "owned": true
     },
     {
       "name": "Zombie Mister Fantastic",
-      "id": "ZombieMisterFantastic",
+      "id": null,
       "owned": true
     },
     {
       "name": "Zombie Giant-Man",
-      "id": "ZombieGiantMan",
+      "id": null,
       "owned": true
     },
     {
       "name": "Zombie Power Man",
-      "id": "ZombiePowerMan",
+      "id": null,
       "owned": true
     },
     {
       "name": "Super-Adaptoid",
-      "id": "SuperAdaptoid",
+      "id": null,
       "owned": true
     },
     {
       "name": "Danger",
-      "id": "Danger",
+      "id": null,
       "owned": true
     },
     {
       "name": "Awesome Andy",
-      "id": "AwesomeAndy",
+      "id": null,
       "owned": true
     },
     {
       "name": "Omega Sentinel",
-      "id": "KarimaShapandar",
+      "id": null,
       "owned": true
     },
     {
       "name": "Air-Walker",
-      "id": "AirWalker",
+      "id": null,
       "owned": true
     },
     {
       "name": "Firelord",
-      "id": "Firelord",
+      "id": null,
       "owned": true
     },
     {
       "name": "The Fallen One",
-      "id": "FallenOne",
+      "id": null,
       "owned": true
     },
     {
       "name": "Galactus First Steps",
-      "id": "GalactusFirstSteps",
+      "id": null,
       "owned": true
     },
     {
       "name": "Red Shift",
-      "id": "RedShift",
+      "id": null,
       "owned": true
     },
     {
       "name": "Silver Surfer First Steps",
-      "id": "SilverSurferFirstSteps",
+      "id": null,
       "owned": true
     },
     {
       "name": "Terrax the Tamer",
-      "id": "Terrax",
+      "id": null,
       "owned": true
     },
     {
       "name": "Mad Thinker",
-      "id": "MadThinker",
+      "id": null,
       "owned": true
     },
     {
       "name": "Mole Man",
-      "id": "MoleMan",
+      "id": null,
       "owned": true
     },
     {
       "name": "Fantasticar",
-      "id": "Fantasticar",
+      "id": null,
       "owned": true
     },
     {
       "name": "Cobra",
-      "id": "Cobra",
+      "id": null,
       "owned": true
     },
     {
       "name": "Hellion",
-      "id": "Hellion",
+      "id": null,
       "owned": true
     },
     {
       "name": "Jennifer Kale",
-      "id": "JenniferKale",
+      "id": null,
       "owned": true
     },
     {
       "name": "Mercury",
-      "id": "Mercury",
+      "id": null,
       "owned": true
     },
     {
       "name": "Nicholas Scratch",
-      "id": "NicholasScratch",
+      "id": null,
       "owned": true
     },
     {
       "name": "Batroc the Leaper",
-      "id": "Batroc",
+      "id": null,
       "owned": true
     },
     {
       "name": "Fan Fei",
-      "id": "FanFei",
+      "id": null,
       "owned": true
     },
     {
       "name": "Khonshu",
-      "id": "Khonshu",
+      "id": null,
       "owned": true
     },
     {
       "name": "The First Ghost Rider",
-      "id": "GhostTheFirstRider",
+      "id": null,
       "owned": true
     },
     {
       "name": "Gorgon",
-      "id": "Gorgon",
+      "id": null,
       "owned": true
     },
     {
       "name": "Laufey",
-      "id": "Laufey",
+      "id": null,
       "owned": true
     },
     {
       "name": "Uncle Ben",
-      "id": "UncleBen",
+      "id": null,
       "owned": true
     },
     {
       "name": "Iron Patriot",
-      "id": "IronPatriot",
+      "id": null,
       "owned": true
     },
     {
       "name": "Victoria Hand",
-      "id": "VictoriaHand",
+      "id": null,
       "owned": true
     },
     {
       "name": "Lasher",
-      "id": "Lasher",
+      "id": null,
       "owned": true
     },
     {
       "name": "Bruce Banner",
-      "id": "BruceBanner",
+      "id": null,
       "owned": true
     },
     {
       "name": "Galacta",
-      "id": "Galacta",
+      "id": null,
       "owned": true
     },
     {
       "name": "Gorr the God Butcher",
-      "id": "Gorr",
+      "id": null,
       "owned": true
     },
     {
       "name": "King Eitri",
-      "id": "KingEitri",
+      "id": null,
       "owned": true
     },
     {
       "name": "Frigga",
-      "id": "Frigga",
+      "id": null,
       "owned": true
     },
     {
       "name": "Anti-Venom",
-      "id": "AntiVenom",
+      "id": null,
       "owned": true
     },
     {
       "name": "Toxin",
-      "id": "Toxin",
+      "id": null,
       "owned": true
     },
     {
       "name": "Agony",
-      "id": "Agony",
+      "id": null,
       "owned": true
     },
     {
       "name": "Scream",
-      "id": "Scream",
+      "id": null,
       "owned": true
     },
     {
       "name": "Hawkeye Kate Bishop",
-      "id": "KateBishop",
+      "id": null,
       "owned": true
     },
     {
       "name": "Cassandra Nova",
-      "id": "CassandraNova",
+      "id": null,
       "owned": true
     },
     {
       "name": "Copycat",
-      "id": "Copycat",
+      "id": null,
       "owned": true
     },
     {
       "name": "Ajax",
-      "id": "Ajax",
+      "id": null,
       "owned": true
     },
     {
       "name": "Arishem",
-      "id": "Arishem",
+      "id": null,
       "owned": true
     },
     {
       "name": "Phastos",
-      "id": "Phastos",
+      "id": null,
       "owned": true
     },
     {
       "name": "Makkari",
-      "id": "Makkari",
+      "id": null,
       "owned": true
     },
     {
       "name": "Sersi",
-      "id": "Sersi",
+      "id": null,
       "owned": true
     },
     {
       "name": "Thena",
-      "id": "Thena",
+      "id": null,
       "owned": true
     },
     {
       "name": "Sasquatch",
-      "id": "Sasquatch",
+      "id": null,
       "owned": true
     },
     {
       "name": "Sage",
-      "id": "Sage",
+      "id": null,
       "owned": true
     },
     {
       "name": "Blink",
-      "id": "Blink",
+      "id": null,
       "owned": true
     },
     {
       "name": "Valentina",
-      "id": "Valentina",
+      "id": null,
       "owned": true
     },
     {
       "name": "Red Guardian",
-      "id": "RedGuardian",
+      "id": null,
       "owned": true
     },
     {
       "name": "U.S. Agent",
-      "id": "USAgent",
+      "id": null,
       "owned": true
     },
     {
       "name": "War Machine",
-      "id": "WarMachine",
+      "id": null,
       "owned": true
     },
     {
       "name": "Cannonball",
-      "id": "Cannonball",
+      "id": null,
       "owned": true
     },
     {
       "name": "Corvus Glaive",
-      "id": "CorvusGlaive",
+      "id": null,
       "owned": true
     },
     {
       "name": "Cull Obsidian",
-      "id": "CullObsidian",
+      "id": null,
       "owned": true
     },
     {
       "name": "Supergiant",
-      "id": "Supergiant",
+      "id": null,
       "owned": true
     },
     {
       "name": "Beta Ray Bill",
-      "id": "BetaRayBill",
+      "id": null,
       "owned": true
     },
     {
       "name": "Grand Master",
-      "id": "GrandMaster",
+      "id": null,
       "owned": true
     },
     {
