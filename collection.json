@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from all paginated owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-10-14T17:01:49.807Z",
+  "extracted_at": "2026-10-14T20:34:01.166Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 502,
+    "total": 503,
     "owned": 343,
-    "unowned": 159,
+    "unowned": 160,
     "unknown": 0
   },
   "series_summary": {
@@ -29,7 +29,7 @@
     },
     "S4": {
       "owned": 85,
-      "total": 91
+      "total": 92
     },
     "S5": {
       "owned": 36,
@@ -37,6 +37,11 @@
     }
   },
   "cards": [
+    {
+      "name": "Zombie Nova",
+      "id": "ZombieNova",
+      "owned": false
+    },
     {
       "name": "Vampire Enchantress",
       "id": "VampireEnchantress",
