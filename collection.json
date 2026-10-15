@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from all paginated owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-10-15T19:01:44.246Z",
+  "extracted_at": "2026-10-15T22:07:31.630Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 503,
-    "owned": 343,
-    "unowned": 160,
+    "owned": 344,
+    "unowned": 159,
     "unknown": 0
   },
   "series_summary": {
@@ -28,7 +28,7 @@
       "total": 125
     },
     "S4": {
-      "owned": 85,
+      "owned": 86,
       "total": 92
     },
     "S5": {
@@ -37,11 +37,6 @@
     }
   },
   "cards": [
-    {
-      "name": "Zombie Nova",
-      "id": "ZombieNova",
-      "owned": false
-    },
     {
       "name": "Vampire Enchantress",
       "id": "VampireEnchantress",
@@ -836,6 +831,11 @@
       "name": "Thanos",
       "id": "Thanos",
       "owned": false
+    },
+    {
+      "name": "Zombie Nova",
+      "id": "ZombieNova",
+      "owned": true
     },
     {
       "name": "The Inversion",
