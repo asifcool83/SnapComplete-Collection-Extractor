@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from all paginated owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-10-17T01:14:37.410Z",
+  "extracted_at": "2026-10-17T06:50:56.770Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 503,
-    "owned": 344,
-    "unowned": 159,
+    "owned": 347,
+    "unowned": 156,
     "unknown": 0
   },
   "series_summary": {
@@ -28,11 +28,11 @@
       "total": 125
     },
     "S4": {
-      "owned": 86,
+      "owned": 87,
       "total": 92
     },
     "S5": {
-      "owned": 36,
+      "owned": 38,
       "total": 189
     }
   },
@@ -438,11 +438,6 @@
       "owned": false
     },
     {
-      "name": "Sparky",
-      "id": "Sparky",
-      "owned": false
-    },
-    {
       "name": "Viv Vision",
       "id": "Viv",
       "owned": false
@@ -565,11 +560,6 @@
     {
       "name": "Strange Supreme",
       "id": "StrangeSupreme",
-      "owned": false
-    },
-    {
-      "name": "Toxie Doxie",
-      "id": "ToxieDoxie",
       "owned": false
     },
     {
@@ -710,11 +700,6 @@
     {
       "name": "Araña",
       "id": "Arana",
-      "owned": false
-    },
-    {
-      "name": "Madame Web",
-      "id": "MadameWeb",
       "owned": false
     },
     {
@@ -1038,6 +1023,11 @@
       "owned": true
     },
     {
+      "name": "Sparky",
+      "id": "Sparky",
+      "owned": true
+    },
+    {
       "name": "Air-Walker",
       "id": "AirWalker",
       "owned": true
@@ -1123,6 +1113,11 @@
       "owned": true
     },
     {
+      "name": "Toxie Doxie",
+      "id": "ToxieDoxie",
+      "owned": true
+    },
+    {
       "name": "Khonshu",
       "id": "Khonshu",
       "owned": true
@@ -1205,6 +1200,11 @@
     {
       "name": "Scream",
       "id": "Scream",
+      "owned": true
+    },
+    {
+      "name": "Madame Web",
+      "id": "MadameWeb",
       "owned": true
     },
     {
