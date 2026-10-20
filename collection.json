@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from all paginated owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-10-20T14:55:20.597Z",
+  "extracted_at": "2026-10-20T19:08:16.163Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 503,
+    "total": 504,
     "owned": 347,
-    "unowned": 156,
+    "unowned": 157,
     "unknown": 0
   },
   "series_summary": {
@@ -33,10 +33,15 @@
     },
     "S5": {
       "owned": 38,
-      "total": 189
+      "total": 190
     }
   },
   "cards": [
+    {
+      "name": "Zombie Black Cat",
+      "id": "ZombieBlackCat",
+      "owned": false
+    },
     {
       "name": "Vampire Enchantress",
       "id": "VampireEnchantress",
