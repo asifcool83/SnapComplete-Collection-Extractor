@@ -10,7 +10,7 @@
     "method": "Playwright rendered DOM from all paginated owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-10-23T21:59:26.418Z",
+  "extracted_at": "2026-10-24T00:27:34.103Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 504,
@@ -1578,13 +1578,13 @@
       "owned": true
     },
     {
-      "name": "Sauron",
-      "id": "Sauron",
+      "name": "Orka",
+      "id": "Orka",
       "owned": true
     },
     {
-      "name": "Orka",
-      "id": "Orka",
+      "name": "Sauron",
+      "id": "Sauron",
       "owned": true
     },
     {
