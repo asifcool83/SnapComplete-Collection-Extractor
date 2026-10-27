@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from all paginated owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-10-27T14:20:38.183Z",
+  "extracted_at": "2026-10-27T20:00:35.559Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 504,
+    "total": 506,
     "owned": 347,
-    "unowned": 157,
+    "unowned": 159,
     "unknown": 0
   },
   "series_summary": {
@@ -29,14 +29,24 @@
     },
     "S4": {
       "owned": 87,
-      "total": 92
+      "total": 93
     },
     "S5": {
       "owned": 38,
-      "total": 190
+      "total": 191
     }
   },
   "cards": [
+    {
+      "name": "Vampire America Chavez",
+      "id": "VampireAmericaChavez",
+      "owned": false
+    },
+    {
+      "name": "Vampire Deacon Frost",
+      "id": "VampireDeaconFrost",
+      "owned": false
+    },
     {
       "name": "Zombie Black Cat",
       "id": "ZombieBlackCat",
