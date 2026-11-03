@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from all paginated owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-11-03T17:41:38.206Z",
+  "extracted_at": "2026-11-03T23:12:10.229Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 506,
+    "total": 509,
     "owned": 347,
-    "unowned": 159,
+    "unowned": 162,
     "unknown": 0
   },
   "series_summary": {
@@ -33,10 +33,25 @@
     },
     "S5": {
       "owned": 38,
-      "total": 191
+      "total": 194
     }
   },
   "cards": [
+    {
+      "name": "Arthur Pendragon",
+      "id": "ArthurPendragon",
+      "owned": false
+    },
+    {
+      "name": "Merlin of Avalon",
+      "id": "MerlinOfAvalon",
+      "owned": false
+    },
+    {
+      "name": "Captain Britain",
+      "id": "CaptainBritain",
+      "owned": false
+    },
     {
       "name": "Vampire Deacon Frost",
       "id": "VampireDeaconFrost",
