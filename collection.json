@@ -10,7 +10,7 @@
     "method": "Playwright rendered DOM from all paginated owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-11-03T23:12:10.229Z",
+  "extracted_at": "2026-11-04T05:59:53.444Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
     "total": 509,
@@ -1738,18 +1738,8 @@
       "owned": true
     },
     {
-      "name": "Dracula",
-      "id": "Dracula",
-      "owned": true
-    },
-    {
       "name": "Hazmat",
       "id": "Hazmat",
-      "owned": true
-    },
-    {
-      "name": "Hellcow",
-      "id": "Hellcow",
       "owned": true
     },
     {
@@ -1788,11 +1778,6 @@
       "owned": true
     },
     {
-      "name": "Typhoid Mary",
-      "id": "TyphoidMary",
-      "owned": true
-    },
-    {
       "name": "Agatha Harkness",
       "id": "AgathaHarkness",
       "owned": true
@@ -1820,11 +1805,6 @@
     {
       "name": "Baron Mordo",
       "id": "BaronMordo",
-      "owned": true
-    },
-    {
-      "name": "Doctor Octopus",
-      "id": "DoctorOctopus",
       "owned": true
     },
     {
@@ -1863,8 +1843,8 @@
       "owned": true
     },
     {
-      "name": "Venom",
-      "id": "Venom",
+      "name": "Typhoid Mary",
+      "id": "TyphoidMary",
       "owned": true
     },
     {
@@ -1905,11 +1885,6 @@
     {
       "name": "Falcon",
       "id": "Falcon",
-      "owned": true
-    },
-    {
-      "name": "Goose",
-      "id": "Goose",
       "owned": true
     },
     {
@@ -1963,6 +1938,11 @@
       "owned": true
     },
     {
+      "name": "Dracula",
+      "id": "Dracula",
+      "owned": true
+    },
+    {
       "name": "Human Torch",
       "id": "HumanTorch",
       "owned": true
@@ -1988,8 +1968,8 @@
       "owned": true
     },
     {
-      "name": "Taskmaster",
-      "id": "Taskmaster",
+      "name": "Venom",
+      "id": "Venom",
       "owned": true
     },
     {
@@ -2023,8 +2003,18 @@
       "owned": true
     },
     {
+      "name": "Doctor Octopus",
+      "id": "DoctorOctopus",
+      "owned": true
+    },
+    {
       "name": "Giganto",
       "id": "Giganto",
+      "owned": true
+    },
+    {
+      "name": "Goose",
+      "id": "Goose",
       "owned": true
     },
     {
@@ -2063,6 +2053,11 @@
       "owned": true
     },
     {
+      "name": "Taskmaster",
+      "id": "Taskmaster",
+      "owned": true
+    },
+    {
       "name": "Brood",
       "id": "Brood",
       "owned": true
@@ -2070,6 +2065,11 @@
     {
       "name": "Hela",
       "id": "Hela",
+      "owned": true
+    },
+    {
+      "name": "Hellcow",
+      "id": "Hellcow",
       "owned": true
     },
     {
@@ -2108,11 +2108,6 @@
       "owned": true
     },
     {
-      "name": "Hobgoblin",
-      "id": "Hobgoblin",
-      "owned": true
-    },
-    {
       "name": "Scorpion",
       "id": "Scorpion",
       "owned": true
@@ -2125,6 +2120,11 @@
     {
       "name": "Bucky Barnes",
       "id": "BuckyBarnes",
+      "owned": true
+    },
+    {
+      "name": "Hobgoblin",
+      "id": "Hobgoblin",
       "owned": true
     },
     {
