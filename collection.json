@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from all paginated owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-11-05T10:41:45.309Z",
+  "extracted_at": "2026-11-06T00:02:26.554Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 509,
+    "total": 510,
     "owned": 347,
-    "unowned": 162,
+    "unowned": 163,
     "unknown": 0
   },
   "series_summary": {
@@ -29,7 +29,7 @@
     },
     "S4": {
       "owned": 87,
-      "total": 93
+      "total": 94
     },
     "S5": {
       "owned": 38,
@@ -37,6 +37,11 @@
     }
   },
   "cards": [
+    {
+      "name": "Mordred",
+      "id": "Mordred",
+      "owned": false
+    },
     {
       "name": "Arthur Pendragon",
       "id": "ArthurPendragon",
