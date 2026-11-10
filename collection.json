@@ -10,12 +10,12 @@
     "method": "Playwright rendered DOM from all paginated owned and missing views",
     "card_selector": ".card-grid-item[aria-label]"
   },
-  "extracted_at": "2026-11-10T17:39:05.973Z",
+  "extracted_at": "2026-11-10T23:08:38.321Z",
   "profile_name": "Kaster's Marvel Snap Collection",
   "counts": {
-    "total": 510,
+    "total": 511,
     "owned": 347,
-    "unowned": 163,
+    "unowned": 164,
     "unknown": 0
   },
   "series_summary": {
@@ -33,10 +33,15 @@
     },
     "S5": {
       "owned": 38,
-      "total": 194
+      "total": 195
     }
   },
   "cards": [
+    {
+      "name": "Lancelot",
+      "id": "Lancelot",
+      "owned": false
+    },
     {
       "name": "Mordred",
       "id": "Mordred",
